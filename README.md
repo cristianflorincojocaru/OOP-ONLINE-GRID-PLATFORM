@@ -92,5 +92,5 @@ The platform saves the answers and score to a file; later, the user can see the 
 > **Benefits** : Allows users to learn from mistakes, providing access to a detailed test history and answer accuracy.
 
 
-## License :
+## License
 This project is licensed under the [MIT License](LICENSE).
