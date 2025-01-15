@@ -59,7 +59,7 @@ If we want to extend the user functionality (e.g., saving long-term scores), we 
 Questions could be categorized into difficulty levels ***(easy, medium, hard)***, and the user can select the desired level at the start of the quiz.
 > **Benefits** : The quiz becomes more flexible, allowing the user to choose questions based on their knowledge level.
 
-### 2. Timed responses
+### 2. Timed responses - NOT IMPLEMENTED
 Adding a timer that limits the time to answer each question. If the time runs out, the user won't be able to answer the question, and the next one will be displayed.
 > **Benefits** : Adds an element of pressure and tests the user's speed, increasing the difficulty level.
 
@@ -83,11 +83,11 @@ Domains allow questions to be organized by theme, enabling the user to choose on
 The platform will automatically pick the chosen number of questions from the specified domain.
 > **Benefits** : Provides flexibility, allowing users to opt for short or long tests according to their time and interest.
 
-### 8. Multiple correct answers
+### 8. Multiple correct answers - NOT IMPLEMENTED
 The user can select multiple options as answers, and correctness will be evaluated based on all correct responses.
 > **Benefits** : Adds complexity and realism to the tests, making assessments more comprehensive.
 
-### 9. Reviewing answers from a completed test (from a file)
+### 9. Reviewing answers from a completed test (from a file) - NOT IMPLEMENTED
 The platform saves the answers and score to a file; later, the user can see the questions and correct answers along with their own responses.
 > **Benefits** : Allows users to learn from mistakes, providing access to a detailed test history and answer accuracy.
 
