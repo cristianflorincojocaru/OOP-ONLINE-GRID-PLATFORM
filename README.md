@@ -54,6 +54,7 @@ If we want to extend the user functionality (e.g., saving long-term scores), we 
 
 
 
+
 ## Main ideas for the final development of the program :
 ### 1. Adding difficulty levels for questions
 Questions could be categorized into difficulty levels ***(easy, medium, hard)***, and the user can select the desired level at the start of the quiz.
@@ -91,8 +92,12 @@ The user can select multiple options as answers, and correctness will be evaluat
 The platform saves the answers and score to a file; later, the user can see the questions and correct answers along with their own responses.
 > **Benefits** : Allows users to learn from mistakes, providing access to a detailed test history and answer accuracy.
 
+
+
 ## Contributions 
 Project created by **Cristian Florin Cojocaru** (**CS.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
