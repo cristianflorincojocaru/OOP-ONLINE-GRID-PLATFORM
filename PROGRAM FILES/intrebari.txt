@@ -1,0 +1,669 @@
+﻿1;Single;Easy;Istorie;Cine a fost primul președinte al SUA?;Abraham Lincoln;George Washington;Thomas Jefferson;Theodore Roosevelt;2
+2;Single;Easy;Istorie;În ce an a avut loc bătălia de la Waterloo?;1800;1900;1815;1700;3
+3;Single;Easy;Istorie;Care este capitala Egiptului?;Londra;Paris;Cairo;Berlin;3
+4;Single;Easy;Istorie;Cine a fost împăratul Romei într-un cruciadelor?;Urban al II-lea;Constantin cel Mare;Augustus;Iustinian;2
+5;Single;Easy;Istorie;În ce an a fost semnat tratatul de la Versailles?;1850;1900;1940;1919;4
+6;Single;Easy;Istorie;Care a fost primul om care a călătorit pe Lună?;Yuri Gagarin;Buzz Aldrin;Neil Armstrong;John Glenn;3
+7;Single;Easy;Istorie;Cine a fost regele Franței în timpul Revoluției Franceze?;Napoleon Bonaparte;Henric al IV-lea;Ludovic al XVI-lea;Charlemagne;3
+8;Single;Easy;Istorie;Cine a fost primul conducător al Uniunii Sovietice?;Stalin;Troțki;Lenin;Jukov;3
+9;Single;Easy;Istorie;Care este anul în care a început al Doilea Război Mondial?;1914;1945;1941;1939;4
+10;Single;Easy;Istorie;Cine a fost primul împărat al Chinei?;Li Yuan;Sun Yat-sen;Wu Zetian;Qin Shi Huang;4
+11;Single;Easy;Istorie;Cine a fost regele Angliei în perioada 1066?;Edward Confesorul;Richard Inimă de Leu;William Cuceritorul;Henric al VIII-lea;3
+12;Single;Easy;Istorie;Care a fost cel mai mare imperiu din istorie, în termeni de suprafață?;Imperiul Roman;Imperiul Otoman;Imperiul Mongol;Imperiul Britanic;3
+13;Single;Easy;Istorie;În ce an a fost declanșat Războiul Civil American?;1776;1861;1914;1812;2
+14;Single;Easy;Istorie;Cine a fost al doilea președinte al SUA?;Thomas Jefferson;George Washington;Abraham Lincoln;John Adams;4
+15;Single;Easy;Istorie;În ce an a fost semnată Declarația de Independență a SUA?;1800;1900;1850;1776;4
+16;Single;Easy;Istorie;Cine a descoperit America în 1492?;Vasco da Gama;Cristofor Columb;Fernando Magellan;John Cabot;2
+17;Single;Easy;Istorie;Cine a fost împăratul Japoniei în perioada Meiji?;Hirohito;Mutsuhito;Yoshihito;Taisho;2
+18;Single;Easy;Istorie;Cine a fondat Roma conform legendei?;Caesar Augustus;Romulus și Remus;Julius Caesar;Cincinnatus;2
+19;Single;Easy;Istorie;Care este cel mai vechi stat existent în Europa?;Italia;Franța;San Marino;Germania;3
+20;Single;Easy;Istorie;În ce an a avut loc Marea Revoluție Franceză?;1799;1804;1789;1812;3
+
+1;Single;Medium;Istorie;În ce an a avut loc bătălia de la Gettysburg?;1865;1863;1870;1850;2
+2;Single;Medium;Istorie;Cine a fost comandantul german în al Doilea Război Mondial?;Erwin Rommel;Adolf Hitler;Heinz Guderian;Hermann Göring;2
+3;Single;Medium;Istorie;În ce an a fost semnat tratatul de la Trianon?;1919;1947;1920;1939;3
+4;Single;Medium;Istorie;Cine a fost regele Angliei în timpul Bătăliei de la Hastings?;Henric al V-lea;Richard Inimă de Leu;William Cuceritorul;Edward Confesorul;3
+5;Single;Medium;Istorie;Care a fost cel mai lung război din istorie?;Războiul Civil American;Războiul de 100 de ani;Războiul Vietnamului;Războiul Crimeii;2
+6;Single;Medium;Istorie;Cine a fost al doilea împărat al Romei?;Augustus;Nerva;Traian;Tiberius;4
+7;Single;Medium;Istorie;Care a fost scopul revoluției industriale?;Răspândirea ideologiilor sociale;Extinderea imperiilor europene;Modernizarea economiilor;Reforme politice;3
+8;Single;Medium;Istorie;Care a fost principalul motiv al Războiului de Secesiune al Statelor Unite?;Colonizarea;Abolaționismul;Slavismul;Independența;2
+9;Single;Medium;Istorie;Cine a fost primul rege al Franței?;Carol cel Mare;Francisc I;Ludovic al XIV-lea;Clovis I;4
+10;Single;Medium;Istorie;Care a fost al doilea imperiu al Franței?;Imperiul lui Napoleon I;Imperiul Bizantin;Imperiul lui Napoleon III;Imperiul Roman;3
+11;Single;Medium;Istorie;Care a fost evenimentul care a marcat sfârșitul Evului Mediu?;Revoluția Industrială;Cruciadele;Războiul de 100 de ani;Căderea Constantinopolului;4
+12;Single;Medium;Istorie;Cine a fost primul rege al Angliei unificate?;Henry al VIII-lea;Richard Inimă de Leu;William Cuceritorul;Egbert;4
+13;Single;Medium;Istorie;Ce eveniment a avut loc în 1945?;Războiul Coreean;Sfârșitul celui de-al Doilea Război Mondial;Revoluția Chineză;Bătălia de la Stalingrad;2
+14;Single;Medium;Istorie;Care a fost efectul Revoluției Franceze asupra Europei?;Răspândirea ideilor republicane;Restaurarea monarhiilor;Războiul Civil;Impărțirea Imperiului Roman;1
+15;Single;Medium;Istorie;Cine a fost primul împărat al Chinei?;Li Yuan;Sun Yat-sen;Wu Zetian;Qin Shi Huang;4
+16;Single;Medium;Istorie;Cine a fost regina Marii Britanii în timpul bătăliei de la Trafalgar?;Elisabeta I;Victoria;Henric al VIII-lea;Elisabeta a II-a;2
+17;Single;Medium;Istorie;Care este anul în care a început Primul Război Mondial?;1912;1914;1915;1917;2
+18;Single;Medium;Istorie;Care a fost efectul Marii Crize Economice din 1929?;Creșterea comerțului global;Declinul sistemelor de sănătate;Pauperizarea maselor;Înființarea ONU;3
+19;Single;Medium;Istorie;Cine a condus Uniunea Sovietică după moartea lui Lenin?;Troțki;Jukov;Brejnev;Stalin;4
+20;Single;Medium;Istorie;Ce eveniment a avut loc în 1969?;Căderea Zidului Berlinului;Primul pas pe Lună;Războiul din Vietnam;Revoluția Chineză;2
+
+1;Single;Hard;Istorie;Când a avut loc Căderea Constantinopolului?;1400;1453;1500;1600;2
+2;Single;Hard;Istorie;Care a fost prima dinastie chinezească?;Dinastia Qing;Dinastia Xia;Dinastia Ming;Dinastia Tang;2
+3;Single;Hard;Istorie;Cine a fost ultimul împărat al Romei?;Diocletian;Romulus Augustulus;Constantin cel Mare;Julius Caesar;2
+4;Single;Hard;Istorie;În ce an a avut loc Revoluția Industrială în Anglia?;1650;1760;1800;1900;2
+5;Single;Hard;Istorie;Cine a fost primul rege al Prusiei?;Frederic I;Wilhelm I;Otto von Bismarck;Frederic al II-lea;1
+6;Single;Hard;Istorie;Cine a fost conducătorul Franței în timpul Bătăliei de la Waterloo?;Charles de Gaulle;Louis XIV;Napoleon Bonaparte;Napoleon III;3
+7;Single;Hard;Istorie;Cine a fost principalul lider al Revoluției Ruse din 1917?;Leon Troțki;Vladimir Lenin;Joseph Stalin;Mikhail Gorbaciov;2
+8;Single;Hard;Istorie;Care a fost cea mai mare bătălie navală din al Doilea Război Mondial?;Bătălia de la Jutland;Bătălia de la Guadalcanal;Bătălia de la Trafalgar;Bătălia de la Midway;4
+9;Single;Hard;Istorie;În ce an a avut loc Bătălia de la Stalingrad?;1943;1941;1942;1944;3
+10;Single;Hard;Istorie;Care a fost principala cauză a Războiului de 30 de ani?;Războaiele pentru independență;Conflicte religioase;Luptele teritoriale;Revoluțiile sociale;2
+11;Single;Hard;Istorie;Cine a fost conducătorul Imperiului Otoman în timpul cuceririi Constantinopolului?;Osman I;Suleiman Magnificul;Mahomed al II-lea;Selim I;3
+12;Single;Hard;Istorie;Care a fost efectul Războiului de 30 de ani asupra Europei?;Declinul puterii catolice;Declinul imperiilor;Creșterea comerțului;Expansiunea protestantismului;1
+13;Single;Hard;Istorie;Când a fost semnat Pactul de Neagresiune între Germania și Uniunea Sovietică?;1939;1941;1945;1925;1
+14;Single;Hard;Istorie;Care a fost numele programului nuclear al SUA în timpul Războiului Rece?;Proiectul Manhattan;Proiectul Apollo;Proiectul Herculaneum;Proiectul Trinity;1
+15;Single;Hard;Istorie;Cine a fost primul lider al Chinei comuniste?;Chiang Kai-shek;Sun Yat-sen;Deng Xiaoping;Mao Zedong;4
+16;Single;Hard;Istorie;Care a fost primul imperiu care a folosit arma de foc în bătălii?;Imperiul Otoman;Imperiul Mongol;Imperiul Roman;Imperiul Chinez;1
+17;Single;Hard;Istorie;În ce an a început și s-a încheiat Războiul Civil American?;1861-1865;1850-1860;1870-1875;1880-1890;1
+18;Single;Hard;Istorie;Cine a fost ultimul împărat al Japoniei?;Akihito;Meiji;Hirohito;Taisho;3
+19;Single;Hard;Istorie;Care a fost principalul obiectiv al programului Apollo?;Ajungerea pe Lună;Explorarea Martei;Colonizarea lunii;Explorarea sistemului solar;1
+20;Single;Hard;Istorie;Când a fost creată Uniunea Europeană?;1980;1970;1993;2000;3
+
+
+
+
+
+1;Single;Easy;Geografie;Care este capitala Franței?;Madrid;Paris;Berlin;Londra;2  
+2;Single;Easy;Geografie;Care este cel mai lung fluviu din lume?;Mississippi;Amazon;Yangtze;Nil;3  
+3;Single;Easy;Geografie;Care este capitala Japoniei?;Tokyo;Manila;Pekin;Seul;1  
+4;Single;Easy;Geografie;Care este cel mai mare ocean din lume?;Indian;Atlantic;Arctic;Pacific;2  
+5;Single;Easy;Geografie;Care este cel mai mare desert din lume?;Sahara;Gobi;Karakum;Atacama;1  
+6;Single;Easy;Geografie;În ce țară se află Marele Zid Chinezesc?;Vietnam;Coreea de Sud;Japonia;China;4  
+7;Single;Easy;Geografie;Care este cea mai mare insulă din lume?;Groenlanda;Noua Zeelandă;Madagascar;Borneo;1  
+8;Single;Easy;Geografie;Care este cel mai înalt vârf din lume?;K2;Makalu;Everest;Kangchenjunga;3  
+9;Single;Easy;Geografie;Care este capitala Italiei?;Paris;Roma;Madrid;Londra;2  
+10;Single;Easy;Geografie;Care este cea mai mare țară din lume după suprafață?;Rusia;Statele Unite;Canada;China;1  
+11;Single;Easy;Geografie;Care este capitala Egiptului?;Cairo;Londra;Berlin;Paris;1  
+12;Single;Easy;Geografie;Care este cel mai mare lac de apă dulce din lume?;Lacul Baikal;Lacul Superior;Lacul Caspian;Lacul Victoria;1  
+13;Single;Easy;Geografie;În ce țară se află Muntele Kilimanjaro?;Tanzania;Uganda;Kenya;Sudan;1  
+14;Single;Easy;Geografie;Care este cel mai adânc ocean?;Pacific;Atlantic;Indian;Arctic;1  
+15;Single;Easy;Geografie;În ce țară se află Insula Galapagos?;Columbia;Ecuador;Chile;Peru;2  
+16;Single;Easy;Geografie;Care este capitala Canadei?;Montreal;Ottawa;Toronto;Vancouver;2  
+17;Single;Easy;Geografie;Care este cel mai mic continent?;Australia;Europa;Africa;Antarctica;1  
+18;Single;Easy;Geografie;Care este cel mai mare stat american?;Alaska;Florida;Texas;California;1  
+19;Single;Easy;Geografie;Care este cel mai mare oraș din lume ca populație?;Shanghai;Tokyo;Mumbai;New York;2  
+20;Single;Easy;Geografie;În ce ocean se află Insulele Maldivelor?;Indian;Pacific;Arctic;Atlantic;1  
+
+1;Single;Medium;Geografie;Care este capitala Mongoliei?;Beijing;Ulaanbaatar;Seul;Tokyo;2  
+2;Single;Medium;Geografie;Care este cel mai mare oraș din Africa?;Cairo;Lagos;Kinshasa;Johannesburg;2  
+3;Single;Medium;Geografie;În ce țară se află Muntele Fuji?;Japonia;Coreea de Sud;China;Nepal;1  
+4;Single;Medium;Geografie;Care este cel mai mare lac din Africa?;Lacul Victoria;Lacul Albert;Lacul Malawi;Lacul Tanganyika;1  
+5;Single;Medium;Geografie;Care este capitala Thailandei?;Bangkok;Singapore;Jakarta;Kuala Lumpur;1  
+6;Single;Medium;Geografie;În ce țară se află Marele Canion?;Statele Unite;Mexic;Brazilia;Canada;1  
+7;Single;Medium;Geografie;Care este cel mai înalt munte din Africa?;Mount Meru;Mount Kenya;Kilimanjaro;Ras Dashen;3  
+8;Single;Medium;Geografie;Care este cel mai adânc lac din lume?;Lacul Tanganyika;Lacul Superior;Lacul Baikal;Lacul Caspian;3  
+9;Single;Medium;Geografie;Care este cel mai mare stat european?;Rusia;Franța;Germania;Spania;1  
+10;Single;Medium;Geografie;În ce țară se află Parcul Național Yellowstone?;Mexic;Statele Unite;Canada;Australia;2  
+11;Single;Medium;Geografie;Care este cel mai mare oraș din China?;Shanghai;Guangzhou;Hong Kong;Beijing;1  
+12;Single;Medium;Geografie;În ce țară se află Muntele Elbrus?;Kazahstan;Armenia;Rusia;Georgia;3  
+13;Single;Medium;Geografie;Care este capitala Suediei?;Stockholm;Helsinki;Oslo;Copenhaga;1  
+14;Single;Medium;Geografie;Care este cea mai mare țară din America de Sud?;Argentina;Brazilia;Columbia;Chile;2  
+15;Single;Medium;Geografie;Care este capitala Olandei?;Bruxelles;Berlin;Paris;Amsterdam;4  
+16;Single;Medium;Geografie;În ce țară se află muntele Matterhorn?;Elveția;Franța;Italia;Austria;1  
+17;Single;Medium;Geografie;Care este cel mai mare port din lume?;Rotterdam;Shanghai;Singapur;New York;2  
+18;Single;Medium;Geografie;Care este cel mai mare arhipelag din lume?;Filipine;Norvegia;Indonezia;Grecia;3  
+19;Single;Medium;Geografie;Care este cel mai mare oraș din India?;Bangalore;Mumbai;Delhi;Kolkata;2  
+20;Single;Medium;Geografie;Care este cel mai adânc punct de pe Pământ?;Fosa Marianelor;Groapa Challenger;Fosa Tonga;Fosa Kermadec;1  
+
+1;Single;Hard;Geografie;Care este cel mai înalt munte din Europa?;Matterhorn;Mont Blanc;Mont McKinley;Elbrus;4  
+2;Single;Hard;Geografie;Care este capitala Bhutanului?;Kathmandu;New Delhi;Thimphu;Dharamsala;3  
+3;Single;Hard;Geografie;Care este capitala Zambiei?;Gaborone;Kinshasa;Harare;Lusaka;4  
+4;Single;Hard;Geografie;Care este cel mai mare ghețar din lume?;Ghețarul Columbia;Ghețarul Perito Moreno;Ghețarul Lambert;Ghețarul Vatnajökull;3  
+5;Single;Hard;Geografie;Care este cel mai lung râu din Asia?;Yangtze;Mekong;Amur;Gange;3  
+6;Single;Hard;Geografie;În ce țară se află Deșertul Atacama?;Chile;Argentina;Peru;Bolivia;1  
+7;Single;Hard;Geografie;Care este capitala Uzbekistanului?;Tashkent;Bishkek;Astana;Almaty;1  
+8;Single;Hard;Geografie;Care este cel mai mare lac sărat din lume?;Lacul Urmia;Lacul Aral;Lacul Dead Sea;Lacul Caspian;3  
+9;Single;Hard;Geografie;Care este țara cu cel mai mare număr de insule?;Indonezia;Grecia;Suedia;Norvegia;1  
+10;Single;Hard;Geografie;Care este cel mai mare oraș din Australia?;Melbourne;Sydney;Perth;Brisbane;3  
+11;Single;Hard;Geografie;În ce țară se află Insula Madagascar?;Seychelles;Mauritius;Madagascar;Comore;3  
+12;Single;Hard;Geografie;Care este cel mai mare stat din India?;Rajasthan;Madhya Pradesh;Uttar Pradesh;Maharashtra;3  
+13;Single;Hard;Geografie;Care este capitala Mongoliei?;Pekin;Ulaanbaatar;Seul;Tokyo;2  
+14;Single;Hard;Geografie;Care este țara cu cea mai mare suprafață de pădure tropicală?;Brazilia;Indonezia;Republica Congo;India;3  
+15;Single;Hard;Geografie;Care este cel mai adânc lac din Africa?;Lacul Tanganyika;Lacul Malawi;Lacul Victoria;Lacul Albert;1  
+16;Single;Hard;Geografie;Care este cel mai mare canal navigabil din lume?;Canalul Suez;Canalul Panama;Canalul Kiel;Canalul Yangtze;3  
+17;Single;Hard;Geografie;Care este cel mai înalt vârf din Alpi?;Dufourspitze;Grand Combin;Matterhorn;Mont Blanc;4  
+18;Single;Hard;Geografie;Care este țara cu cele mai multe vulcani activi?;Indonezia;Japonia;Italia;Statele Unite;3  
+19;Single;Hard;Geografie;Care este cel mai adânc punct de pe Pământ?;Fosa Tonga;Fosa Kermadec;Groapa Challenger;Fosa Marianelor;4  
+20;Single;Hard;Geografie;Care este cel mai mare arhipelag din lume?;Filipine;Grecia;Norvegia;Indonezia;3  
+
+
+
+
+
+1;Single;Easy;Stiinte naturale;Ce planetă este cunoscută drept „Planeta Roșie”?;Venus;Marte;Jupiter;Saturn;2
+2;Single;Easy;Stiinte naturale;Ce gaz respirăm pentru a supraviețui?;Oxigen;Hidrogen;Azot;Dioxid de carbon;1
+3;Single;Easy;Stiinte naturale;Care este simbolul chimic pentru apă?;O;H2O;CO2;H2;2
+4;Single;Easy;Stiinte naturale;Cine a formulat teoria relativității?;Isaac Newton;Albert Einstein;Nikola Tesla;Marie Curie;2
+5;Single;Easy;Stiinte naturale;Ce element chimic este esențial pentru respirația umană?;Azot;Oxigen;Carbon;Hidrogen;2
+6;Single;Easy;Stiinte naturale;Ce formă are Pământul?;Cilindrică;Sferică;Plată;Cubică;2
+7;Single;Easy;Stiinte naturale;Care este cea mai abundentă substanță chimică din organismul uman?;Proteine;Oxigen;Carbon;Apă;4
+8;Single;Easy;Stiinte naturale;Care este cea mai mare planetă din sistemul nostru solar?;Venus;Saturn;Jupiter;Neptun;3
+9;Single;Easy;Stiinte naturale;Cum se numește procesul prin care plantele produc hrană?;Transpirație;Fotosinteză;Respirație;Fermentație;2
+10;Single;Easy;Stiinte naturale;Ce parte a corpului uman reglează temperatura corpului?;Creierul;Ficatul;Plămânii;Inima;1
+11;Single;Easy;Stiinte naturale;Ce planetă este cea mai apropiată de Soare?;Venus;Terra;Marte;Mercur;4
+12;Single;Easy;Stiinte naturale;Care este cel mai mare organ al corpului uman?;Creierul;Plămânii;Ficatul;Pielea;4
+13;Single;Easy;Stiinte naturale;Ce formă are ADN-ul?;Cercul;Spirală dublă;Liniară;Pătrată;2
+14;Single;Easy;Stiinte naturale;Ce tip de animale au sânge cald?;Peștii;Reptilele;Amfibienii;Mamiferele;4
+15;Single;Easy;Stiinte naturale;Ce componentă a ADN-ului conține informațiile genetice?;Proteinele;Acizii nucleici;Carbohidrații;Lipidele;2
+16;Single;Easy;Stiinte naturale;Ce unitate de măsură se folosește pentru intensitatea luminii?;Lumenii;Decibeli;Kilowați;Amperi;1
+17;Single;Easy;Stiinte naturale;Care este organul care pompează sângele în corp?;Ficatul;Inima;Creierul;Plămânii;2
+18;Single;Easy;Stiinte naturale;Cum se numește procesul prin care plantele absorb apa?;Respirație;Transpirație;Absorbție;Fotosinteză;2
+19;Single;Easy;Stiinte naturale;Ce substanță este folosită de plante pentru fotosinteză?;Apă;Oxigen;Dioxid de carbon;Azot;3
+20;Single;Easy;Stiinte naturale;Ce organ controlează mișcările corpului uman?;Plămânii;Inima;Creierul;Ficatul;3
+
+1;Single;Medium;Stiinte naturale;Care este simbolul chimic pentru aur?;Fe;Au;Ag;Al;2
+2;Single;Medium;Stiinte naturale;Ce tip de energie este stocată în baterii?;Termică;Cinetică;Potențială;Electrică;4
+3;Single;Medium;Stiinte naturale;Ce este un neuron?;Un tip de bacterie;Un tip de celulă nervoasă;Un tip de celulă musculară;Un tip de celulă sanguină;2
+4;Single;Medium;Stiinte naturale;Cum se numește procesul de transformare a energiei solare în energie chimică?;Fotosinteza;Respirația celulară;Fermentația;Transpirația;1
+5;Single;Medium;Stiinte naturale;Care este cel mai mare organ intern al corpului uman?;Plămânii;Ficatul;Inima;Stomacul;2
+6;Single;Medium;Stiinte naturale;Ce face ficatul în organism?;Reglează tensiunea arterială;Produce insulină;Procesează toxinele;Produce celule sanguine;3
+7;Single;Medium;Stiinte naturale;Ce combinație chimică formează apă?;CO2 și H2;H2O și O2;H2 și O2;C și O2;3
+8;Single;Medium;Stiinte naturale;Care este cea mai mică unitate de viață?;Organele;Celula;Organismele;Moleculele;2
+9;Single;Medium;Stiinte naturale;Cum se numește schimbarea unui solid în lichid?;Fuzionare;Evaporare;Congelare;Condensare;1
+10;Single;Medium;Stiinte naturale;Care este elementul chimic cu simbolul Na?;Nitrul;Sodiul;Azotul;Neonul;2
+11;Single;Medium;Stiinte naturale;Ce gaz se emite prin respirația umană?;Oxigen;Azot;Dioxid de carbon;Metan;3
+12;Single;Medium;Stiinte naturale;Ce caracteristică definitorie au animalele mamifere?;Oase puternice;Sânge rece;Furca;Glanda mamară;4
+13;Single;Medium;Stiinte naturale;Ce organ produce insulină în corpul uman?;Ficatul;Pancreasul;Stomacul;Splina;2
+14;Single;Medium;Stiinte naturale;Ce este un fosil?;O plantă;Un organism viu conservat în roci;Un tip de rocă;Un tip de mineral;2
+15;Single;Medium;Stiinte naturale;Ce funcție are ADN-ul?;Produce energie;Transportă oxigen;Contiene informații genetice;Protejează celulele;3
+16;Single;Medium;Stiinte naturale;Ce este cromozomul?;O proteină;O celulă;Un tip de acid nucleic;Un organ intern;3
+17;Single;Medium;Stiinte naturale;Cum se numește procesul de formare a norilor?;Condensare;Evaporare;Precipitație;Depunere;1
+18;Single;Medium;Stiinte naturale;Ce se întâmplă când apa îngheață?;Se expandează;Se contractă;Devine mai ușoară;Se evaporă;1
+19;Single;Medium;Stiinte naturale;Ce tip de energie se produce în panourile solare?;Energie electrică;Energie termică;Energie mecanică;Energie nucleară;1
+20;Single;Medium;Stiinte naturale;Care este principala funcție a stemii în plante?;Absorbția apei;Transportul nutrienților;Fotosinteza;Susținerea plantelor;4
+
+1;Single;Hard;Stiinte naturale;Ce este ADN-ul?;Un tip de proteină;O substanță care stochează informațiile genetice;O vitamină esențială pentru organism;Un carbohidrat;2  
+2;Single;Hard;Stiinte naturale;Care este funcția mitocondriilor în celule?;Stochează apă;Protejează nucleul;Produc energie;Sincronizează mișcările;3  
+3;Single;Hard;Stiinte naturale;Cum se numește fenomenul prin care plantele înlocuiesc oxigenul cu dioxid de carbon în timpul nopții?;Respirație;Fotosinteză;Transpirație;Evaporare;1  
+4;Single;Hard;Stiinte naturale;Care este cel mai greu element chimic cunoscut?;Uranium;Plutonium;Osmium;Iridium;3  
+5;Single;Hard;Stiinte naturale;Cum se numește procesul de schimb de gaze între plante și atmosferă?;Transpirație;Respirație;Fotosinteză;Gaze exchange;2  
+6;Single;Hard;Stiinte naturale;Ce structură din celulă este responsabilă de protecția acesteia?;Mitocondriile;Nucleul;Membrana celulară;Liza;3  
+7;Single;Hard;Stiinte naturale;Care este principala funcție a hemoglobinei?;Digestia alimentelor;Transportul nutrienților;Transportul oxigenului;Sinteza de proteine;3  
+8;Single;Hard;Stiinte naturale;Ce se întâmplă atunci când lumina interacționează cu o suprafață reflectorizantă?;Se refractă;Se difuzează;Se absoarbe;Se reflectă;4  
+9;Single;Hard;Stiinte naturale;Care este simbolul chimic pentru argon?;Al;Ag;Au;Ar;1  
+10;Single;Hard;Stiinte naturale;Ce tip de reacție chimică presupune combinarea a două sau mai multe elemente pentru a forma o substanță mai complexă?;Reacție de schimb;Oxidare;Reacție de sinteză;Reacție de descompunere;3  
+11;Single;Hard;Stiinte naturale;Care este temperatura de fierbere a apei la nivelul mării?;200°C;100°C;50°C;150°C;2  
+12;Single;Hard;Stiinte naturale;Ce este o mutație?;O schimbare în structura ADN-ului;Un tip de infecție;O boală genetică;Un tip de proteină;1  
+13;Single;Hard;Stiinte naturale;Care este principala substanță care formează scheletul oamenilor?;Magneziu;Fosfor;Calciu;Siliciu;3  
+14;Single;Hard;Stiinte naturale;Care este cel mai mare organ intern al corpului uman?;Inima;Creierul;Ficatul;Pielea;3  
+15;Single;Hard;Stiinte naturale;Ce tip de energie produce un reactor nuclear?;Lumină;Cinetică;Termică;Electrică;3  
+16;Single;Hard;Stiinte naturale;Care este formula chimică a dioxidului de carbon?;O2;CH4;CO2;H2O;3  
+17;Single;Hard;Stiinte naturale;Cum se numește procesul prin care un solid trece în stare de gaz?;Fuzionare;Evaporare;Condensare;Sublimare;4  
+18;Single;Hard;Stiinte naturale;Ce se întâmplă în procesul de fotosinteză?;Plantele absorb oxigen;Plantele absorb dioxid de carbon și produc oxigen;Plantele absorb nutrienți din sol;Plantele produc hrană pentru animale;2  
+19;Single;Hard;Stiinte naturale;Ce element chimic este esențial pentru formarea hemoglobinei?;Cupru;Zinc;Magneziu;Fier;4  
+20;Single;Hard;Stiinte naturale;Care este cel mai mare tip de celulă din corpul uman?;Celula roșie;Celula musculară;Celula nervoasă;Celula de piele;3  
+
+
+
+
+
+1;Single;Easy;Literatura;Cine a scris „Amintiri din copilărie”?;Ion Creangă;Mihai Eminescu;George Coșbuc;Tudor Arghezi;1  
+2;Single;Easy;Literatura;Care este autorul operei „Ion”?;Liviu Rebreanu;Marin Preda;Nicolae Labiș;George Călinescu;1  
+3;Single;Easy;Literatura;Ce roman scris de Mihai Eminescu este considerat un clasic al literaturii române?;Luceafărul;Poezii;Scrisoarea III;Sărmanul Dionis;1  
+4;Single;Easy;Literatura;Care dintre următoarele opere a fost scrisă de George Coșbuc?;Poezii;Mama;Iarba verde de acasă;Pădurea;3  
+5;Single;Easy;Literatura;Cine este autorul romanului „Moromeții”?;Marin Preda;Liviu Rebreanu;Ion Luca Caragiale;Tudor Arghezi;1  
+6;Single;Easy;Literatura;În ce limbă a fost scris „Divina Comedie”?;Engleză;Franceză;Italiană;Latină;3  
+7;Single;Easy;Literatura;Cine a scris „Războiul nu are chip de femeie”?;Tatiana Țîbuleac;Gabriel García Márquez;Vasile Ernu;Ion Luca Caragiale;1  
+8;Single;Easy;Literatura;Care dintre următoarele opere a fost scrisă de I.L. Caragiale?;Moromeții;O scrisoare pierdută;Ion;Ionel;2  
+9;Single;Easy;Literatura;Ce tip de literatură reprezintă „Maitreyi” de Mircea Eliade?;Roman istoric;Roman psihologic;Roman de aventuri;Roman filozofic;2  
+10;Single;Easy;Literatura;Care este autorul cărții „Enigma Otiliei”?;George Călinescu;Ionel Teodoreanu;Mihail Sadoveanu;Vasile Alecsandri;2  
+11;Single;Easy;Literatura;Care dintre următoarele cărți a fost scrisă de Emil Cioran?;Lumea ca voință și reprezentare;Pe culmile disperării;Pădurea spânzuraților;Trăiri și gânduri;2  
+12;Single;Easy;Literatura;Cine a scris „Jurnalul unui nebun”?;Nikolai Gogol;Dostoievski;Lev Tolstoi;Mihail Bulgakov;1  
+13;Single;Easy;Literatura;Care dintre următoarele opere a fost scrisă de William Shakespeare?;Macbeth;Marea hartă;Romeo și Julieta;Căpcăunul;3  
+14;Single;Easy;Literatura;Care este autorul operei „Ulii”?;Marin Preda;Radu Cosașu;Nicolae Iorga;Gabriel Garcia Marquez;2  
+15;Single;Easy;Literatura;Cine a scris „Pădurea spânzuraților”?;Liviu Rebreanu;Ion Luca Caragiale;Marin Preda;Mihail Sadoveanu;1  
+16;Single;Easy;Literatura;Cine este autorul „O scrisoare pierdută”?;Ion Luca Caragiale;George Coșbuc;Mihail Sadoveanu;Nicolae Iorga;1  
+17;Single;Easy;Literatura;Ce reprezintă „Miorița” în literatura română?;Un poem epic;Un roman de aventuri;Un mit literar;Un poem liric;1  
+18;Single;Easy;Literatura;Cine a scris „Baltagul”?;Marin Preda;Ion Luca Caragiale;Mihail Sadoveanu;George Călinescu;3  
+19;Single;Easy;Literatura;Care este autorul operei „Timpul găurilor negre”?;Ion Barbu;Mihail Eminescu;George Călinescu;Marin Preda;1  
+20;Single;Easy;Literatura;Ce tip de literatură reprezintă „Mihail” de Mihail Sadoveanu?;Roman psihologic;Roman istoric;Roman de dragoste;Roman de aventuri;2  
+
+1;Single;Medium;Literatura;Care este autorul romanului „Mihail” de Mihail Sadoveanu?;Ion Creangă;Marin Preda;Mihail Sadoveanu;Liviu Rebreanu;3  
+2;Single;Medium;Literatura;Ce tip de literatură reprezintă opera „Bucovina, țara mea”?;Roman de aventuri;Roman filozofic;Roman istoric;Roman de dragoste;3  
+3;Single;Medium;Literatura;Care dintre următoarele opere a fost scrisă de Tudor Arghezi?;Flori de mucigai;Miorița;Ion;Pădurea;1  
+4;Single;Medium;Literatura;Care este autorul romanului „Madona cu plete de aur”?;Mihail Sadoveanu;Liviu Rebreanu;Mihail Eminescu;Ion Luca Caragiale;1  
+5;Single;Medium;Literatura;Cine este autorul operei „Căpcăunul”?;Ion Luca Caragiale;Marin Preda;I.L. Caragiale;Mihail Sadoveanu;1  
+6;Single;Medium;Literatura;Cine a scris „Ulise” în literatura engleză?;William Shakespeare;James Joyce;Ernest Hemingway;George Orwell;2  
+7;Single;Medium;Literatura;În ce perioadă istorică a trăit Ioan Slavici?;Secolul XX;Secolul XIX;Secolul XVIII;Secolul XVII;2  
+8;Single;Medium;Literatura;Cine a scris „Horia, Cloșca și Crișan”?;Mihail Sadoveanu;George Coșbuc;Ion Creangă;Tudor Arghezi;2  
+9;Single;Medium;Literatura;Care este autorul romanului „Conștiința”?;Ion Băieșu;Petre Dulfu;George Călinescu;Liviu Rebreanu;3  
+10;Single;Medium;Literatura;Care este autorul operei „Timpul găurilor negre”?;Ion Barbu;George Călinescu;Mihail Sadoveanu;Radu Cosașu;1  
+11;Single;Medium;Literatura;Care este genul literar al operei „Ion”?;Roman;Epopee;Tragedie;Comedie;1  
+12;Single;Medium;Literatura;Cine a scris „Misterele Parisului”?;Victor Hugo;Emile Zola;Jules Verne;Alexandre Dumas;4  
+13;Single;Medium;Literatura;Cine a scris „Fata din fostul regat”?;Ion Luca Caragiale;Ion Barbu;Marin Preda;Gabriel Garcia Marquez;2  
+14;Single;Medium;Literatura;Care este tema principală a operei „Ion”?;Iubirea;Banii și puterea;Lupta pentru dreptate;Misterul crimei;2  
+15;Single;Medium;Literatura;Ce autor român a scris „Moromeții”?;Marin Preda;Mihail Sadoveanu;Ion Luca Caragiale;Tudor Arghezi;1  
+16;Single;Medium;Literatura;În ce operă se află personajul Ilie Moromete?;Ion;Moromeții;Scrisoarea pierdută;O scrisoare din Paris;2  
+17;Single;Medium;Literatura;Cine a scris „Pădurea spânzuraților”?;Liviu Rebreanu;Ion Luca Caragiale;Mihail Sadoveanu;Nicolae Iorga;1  
+18;Single;Medium;Literatura;Care este autorul operei „Scrisoarea pierdută”?;George Coșbuc;Ion Luca Caragiale;Mihail Sadoveanu;Gabriel Garcia Marquez;2  
+19;Single;Medium;Literatura;Cine este autorul operei „Oamenii în alb”?;Ion Luca Caragiale;Mihail Sadoveanu;Tudor Arghezi;Liviu Rebreanu;4  
+20;Single;Medium;Literatura;Care este autorul „Maitreyi”?;Mircea Eliade;Mihail Sadoveanu;Marin Preda;Ion Luca Caragiale;1  
+
+1;Single;Hard;Literatura;Cine a scris „Căpcăunul”?;Ion Luca Caragiale;Marin Preda;Mihail Sadoveanu;Tudor Arghezi;1
+2;Single;Hard;Literatura;Care este tematica principală a operei „Amintiri din copilărie”?;Lupta pentru dreptate;Tradițiile românești;Mângâierea în fața morții;Copilăria și educația;4
+3;Single;Hard;Literatura;Care este autorul operei „Ultima noapte de dragoste, întâia noapte de război”?;Camil Petrescu;Ion Luca Caragiale;Mircea Eliade;George Călinescu;1
+4;Single;Hard;Literatura;În ce an a fost publicat romanul „Ion” de Liviu Rebreanu?;1920;1923;1925;1927;1
+5;Single;Hard;Literatura;Cine a scris „Pădurea spânzuraților”?;Liviu Rebreanu;Ion Luca Caragiale;Marin Preda;Nicolae Iorga;1
+6;Single;Hard;Literatura;Care este autorul operei „Ceasornicul” de Mihail Sadoveanu?;Liviu Rebreanu;Ion Luca Caragiale;Marin Preda;Mihail Sadoveanu;4
+7;Single;Hard;Literatura;În ce secol a trăit George Coșbuc?;Secolul XIX;Secolul XX;Secolul XVIII;Secolul XXI;1
+8;Single;Hard;Literatura;Care este autorul operei „Pe drumuri” ?;Tudor Arghezi;George Coșbuc;Ion Creangă;Liviu Rebreanu;2
+9;Single;Hard;Literatura;Care dintre următoarele este o lucrare a lui George Călinescu?;Viața lui Mihai Eminescu;Ion;Moromeții;Divina Comedie;1
+10;Single;Hard;Literatura;Care dintre următoarele lucrări a fost scrisă de Marin Preda?;Viața unui om singur;Moromeții;Scrisoarea pierdută;Baltagul;2
+11;Single;Hard;Literatura;Cine a scris „Marele test”?;Gabriel Garcia Marquez;Nicolas Roeg;Gabriel Liiceanu;Mihail Sadoveanu;3
+12;Single;Hard;Literatura;Care este tema operei „Pădurea spânzuraților”?;Izolarea;Lupta pentru libertate;Războiul;Misterul crimei;2
+13;Single;Hard;Literatura;Cine este autorul „Luceafărul”?;Mihai Eminescu;George Coșbuc;Ion Luca Caragiale;Nicolae Iorga;1
+14;Single;Hard;Literatura;Care este subiectul operei „Fata din fostul regat”?;Război;Tragedie;Dragoste;Răzbunare;2
+15;Single;Hard;Literatura;Cine a scris „Luceafărul”?;Mihai Eminescu;Ion Luca Caragiale;Marin Preda;George Coșbuc;1
+16;Single;Hard;Literatura;Care este tema principală a romanului „Moromeții”?;Războiul;Dragostea;Conflictele de familie;Problemele economice ale țăranilor;3
+17;Single;Hard;Literatura;Care este autorul romanului „Patimile după Hristos”?;Nikos Kazantzakis;Mihail Sadoveanu;Ioan Slavici;Ion Barbu;1
+18;Single;Hard;Literatura;Care este tema romanului „Mihail”?;Romantismul;Conflictul social;Conștiința;Timpul istoric;2
+19;Single;Hard;Literatura;Care este tema principală a operei „Amintiri din copilărie”?;Războiul;Lupta pentru dreptate;Dorința de a cunoaște;Tradițiile românești;4
+20;Single;Hard;Literatura;Cine a scris „Ion”?;Liviu Rebreanu;Mircea Eliade;George Coșbuc;Nicolae Iorga;1
+
+
+
+
+
+1;Single;Easy;Matematica;Cât face 2 + 2?;3;4;5;6;2
+2;Single;Easy;Matematica;Cât face 5 * 3?;15;20;10;25;1
+3;Single;Easy;Matematica;Cât este 10 - 4?;6;7;5;8;1
+4;Single;Easy;Matematica;Care este perimetrul unui pătrat cu latura de 4 cm?;12 cm;16 cm;14 cm;18 cm;2
+5;Single;Easy;Matematica;Cât face 3 + 5 * 2?;13;16;11;17;1
+6;Single;Easy;Matematica;Care este valoarea lui 8 - 3 * 2?;2;4;6;8;1
+7;Single;Easy;Matematica;Cât face 100 / 5?;15;20;25;30;2
+8;Single;Easy;Matematica;Care este 15 + 5?;20;18;25;22;1
+9;Single;Easy;Matematica;Cât face 7 + 3?;9;10;11;8;1
+10;Single;Easy;Matematica;Care este 5 * 5?;20;15;25;30;3
+11;Single;Easy;Matematica;Cât face 4 * 6?;24;20;22;18;1
+12;Single;Easy;Matematica;Cât face 10 / 2?;5;6;7;8;1
+13;Single;Easy;Matematica;Care este perimetrul unui cerc cu raza de 3 cm (folosind π ≈ 3.14)?;18.84 cm;20 cm;14.13 cm;19.10 cm;1
+14;Single;Easy;Matematica;Cât face 9 + 3?;11;12;10;9;1
+15;Single;Easy;Matematica;Cât este 5^2?;20;30;25;40;3
+16;Single;Easy;Matematica;Cât face 2 * 6?;10;11;12;14;3
+17;Single;Easy;Matematica;Care este valoarea lui 7 + 7?;12;13;14;15;3
+18;Single;Easy;Matematica;Cât face 6 - 3?;2;3;4;5;1
+19;Single;Easy;Matematica;Cât face 10 * 10?;90;100;110;120;2
+20;Single;Easy;Matematica;Care este 3 * 8?;20;22;24;25;3
+
+1;Single;Medium;Matematica;Ce simbol este folosit pentru adunare?;+;-;*;/;1  
+2;Single;Medium;Matematica;Cum se numește numărul 0 în matematică?;Număr natural;Număr întreg;Număr rațional;Număr par;2  
+3;Single;Medium;Matematica;Ce reprezintă semnul „>”?;Mai mare;Mai mic;Mai mare sau egal;Mai mic sau egal;1  
+4;Single;Medium;Matematica;Care este termenul corect pentru „3” într-o sumă?;Sumand;Suma;Addend;Coeficient;1  
+5;Single;Medium;Matematica;Care este termenul corect pentru „4” într-o înmulțire?;Factor;Produs;Coeficient;Divizor;1  
+6;Single;Medium;Matematica;Ce număr reprezintă suma a două numere naturale pozitive?;Un număr par;Un număr întreg;Un număr rațional;Un număr natural;4  
+7;Single;Medium;Matematica;Ce reprezintă „π” în matematică?;Perimetrul cercului;Aria cercului;Raportul dintre circumferință și diametru;Raza cercului;3  
+8;Single;Medium;Matematica;Cum se numește suma a două numere întregi pozitive?;Un număr întreg pozitiv;Un număr natural;Un număr rațional;Un număr par;2  
+9;Single;Medium;Matematica;Cum se numește rezultatul unei înmulțiri?;Factor;Produs;Suma;Diferența;2  
+10;Single;Medium;Matematica;Cum se numește rezultatul unei împărțiri?;Cocient;Divizor;Rest;Fracție;1  
+11;Single;Medium;Matematica;Ce înseamnă „x” în ecuațiile matematice?;Necunoscut;Soluție;Rădăcină;Termen;1  
+12;Single;Medium;Matematica;Care dintre următoarele este un număr întreg?;-4;1/2;0,5;0,3;1  
+13;Single;Medium;Matematica;Cum se numește unghiul de 90°?;Acut;Obtuz;Drept;Null;3  
+14;Single;Medium;Matematica;Ce semnificație are „≤” în matematică?;Mai mare decât;Mai mic sau egal cu;Mai mare sau egal cu;Mai mic decât;2  
+15;Single;Medium;Matematica;Care este formula pentru aria unui pătrat?;A = l^2;A = l × l;A = 2l + 2;A = 4l;1  
+16;Single;Medium;Matematica;Care este rezultatul diferenței dintre două numere?;Diferență;Sumă;Produs;Rest;1  
+17;Single;Medium;Matematica;Ce simbol este folosit pentru înmulțire?;*;#;×;÷;3  
+18;Single;Medium;Matematica;Cum se numește rezultatul unei adunări?;Sumă;Produs;Cocient;Diferență;1  
+19;Single;Medium;Matematica;Ce simbol reprezintă împărțirea?;+;-;*;/;4  
+20;Single;Medium;Matematica;Cum se numește suma dintre două numere raționale?;Număr rațional;Număr natural;Număr întreg;Sumă rațională;1  
+
+1;Single;Medium;Matematica;Care este suma unghiurilor interne ale unui triunghi?;180°;90°;360°;270°;1  
+2;Single;Medium;Matematica;Ce reprezintă „π” în geometrie?;Perimetrul cercului;Raportul dintre circumferința și diametru;Aria cercului;Raza cercului;2  
+3;Single;Medium;Matematica;Care este formula ariei unui triunghi?;A = b × h;A = 1/2 × b × h;A = b × h / 2;A = b × h × 2;2  
+4;Single;Medium;Matematica;Care este perimetrul unui pătrat cu latura de 5 cm?;25 cm;20 cm;15 cm;10 cm;2  
+5;Single;Medium;Matematica;Ce formă geometrică are 6 fețe?;Cub;Piramidă;Cilindru;Con;1  
+6;Single;Medium;Matematica;Cum se numește unghiul mai mic de 90°?;Un unghi drept;Un unghi obtuz;Un unghi acut;Un unghi reflex;3  
+7;Single;Medium;Matematica;Ce reprezintă un număr rațional?;Un număr care nu poate fi scris ca fracție;Un număr care poate fi scris ca fracție;Un număr întreg pozitiv;Un număr natural;2  
+8;Single;Medium;Matematica;Care este formula perimetrului unui dreptunghi?;P = l × w;P = 2l + 2w;P = 2l × 2w;P = l + w;2  
+9;Single;Medium;Matematica;Cum se numește suma a două numere?;Diferență;Produs;Sumă;Coeficient;3  
+10;Single;Medium;Matematica;Ce reprezintă „x” într-o ecuație?;Rădăcina;Necunoscutul;Soluția;Coeficientul;2  
+11;Single;Medium;Matematica;Ce este un număr prim?;Un număr care poate fi împărțit doar la 1 și la el însuși;Un număr care poate fi împărțit la orice număr;Un număr care este întreg;Un număr care este divizibil cu 2;1  
+12;Single;Medium;Matematica;Cum se numește numărul „1” în teorie?;Număr prim;Număr întreg;Număr rațional;Număr compus;2  
+13;Single;Medium;Matematica;Care este formula ariei unui cerc?;A = r^2;A = πr^2;A = 2πr;A = r^2π;2  
+14;Single;Medium;Matematica;Ce reprezintă semnul „=” într-o ecuație?;Mai mare decât;Egalitate;Mai mic decât;Sumă;2  
+15;Single;Medium;Matematica;Cum se numește un unghi de 90°?;Un unghi obtuz;Un unghi acut;Un unghi drept;Un unghi reflex;3  
+16;Single;Medium;Matematica;Cum se numește figura geometrică cu 4 laturi egale și unghiuri de 90°?;Pătrat;Dreptunghi;Paralelogram;Trapez;1  
+17;Single;Medium;Matematica;Ce semnifică „x” într-o funcție liniară?;Rădăcina;Coeficientul;Variabila;Constanta;3  
+18;Single;Medium;Matematica;Care este formula volumului unui cub?;V = a^2;V = a^3;V = 4a;V = a × b × c;2  
+19;Single;Medium;Matematica;Ce reprezintă „ab” într-o formulă?;Adunarea dintre a și b;Scăderea dintre a și b;Închiderea dintre a și b;Înmulțirea dintre a și b;4  
+20;Single;Medium;Matematica;Care este suma unghiurilor externe ale unui poligon cu 5 laturi?;540°;360°;720°;180°;2  
+
+
+
+
+
+1;Single;Easy;Tehnologie;Care este primul computer personal comercializat pe piață?;Apple I;Macintosh;Commodore 64;IBM PC;1  
+2;Single;Easy;Tehnologie;Ce este un CPU?;Central Processor Unit;Central Power Unit;Central Processing Unit;Computer Power Unit;3  
+3;Single;Easy;Tehnologie;Care dintre următoarele este un sistem de operare?;Fujitsu;Canon;Windows 98;LG;3  
+4;Single;Easy;Tehnologie;Ce tehnologie este folosită în majoritatea smartphone-urilor?;OLED;LED;LCD;Intel;3  
+5;Single;Easy;Tehnologie;Ce unitate de stocare este folosită pentru a salva fișiere pe termen lung?;RAM;GPU;Hard disk;Procesor;3  
+6;Single;Easy;Tehnologie;Care este unitatea de măsură pentru frecvența unui procesor?;Kilobyte;Byte;Hertz;Bit;3  
+7;Single;Easy;Tehnologie;Cine a inventat telefonul mobil?;Elon Musk;Steve Jobs;Martin Cooper;Bill Gates;3  
+8;Single;Easy;Tehnologie;Ce înseamnă acronimul „USB”?;Universal Serial Bus;Universal System Bus;United System Bus;Uniform Serial Bus;1  
+9;Single;Easy;Tehnologie;Ce este Wi-Fi?;Un sistem de operare;Un tip de cablu;Un tip de monitor;Un tip de rețea wireless;4  
+10;Single;Easy;Tehnologie;Cum se numește procesul de copiere a datelor pe un alt dispozitiv de stocare?;Rebooting;Backup;Bios;Burning;2  
+11;Single;Easy;Tehnologie;Ce este un browser web?;Un program de procesare a textului;Un software de editare foto;Un program care ajută la navigarea pe internet;Un joc video;3  
+12;Single;Easy;Tehnologie;Ce produs a fost lansat de Apple în 2007?;iPhone;iPad;MacBook;iPod;1  
+13;Single;Easy;Tehnologie;Care este rolul unui antivirus pe un computer?;Îmbunătățește calitatea imaginii;Crește viteza procesorului;Protejează împotriva virusurilor;Crește performanța bateriei;3  
+14;Single;Easy;Tehnologie;Cum se numește tehnologia de încărcare wireless?;Wi-Fi;NFC;Bluetooth;Qi;4  
+15;Single;Easy;Tehnologie;Ce este un sistem de operare open-source?;iOS;Android;Windows 10;MacOS;2  
+16;Single;Easy;Tehnologie;Ce tip de fișier are extensia ".jpg"?;Fișier de imagine;Fișier audio;Fișier video;Fișier de text;1  
+17;Single;Easy;Tehnologie;Ce este un server?;Un tip de browser;Un dispozitiv de stocare;Un dispozitiv care furnizează servicii sau resurse pentru alte calculatoare;Un sistem de operare;3  
+18;Single;Easy;Tehnologie;Ce înseamnă acronimul „HTML”?;Hyper Transfer Language;High Transfer Markup Language;Hypertext Markup Language;High-tech Markup Language;3  
+19;Single;Easy;Tehnologie;Cum se numește tipul de memorie care se șterge când computerul este oprit?;ROM;Cache;RAM;Flash;3  
+20;Single;Easy;Tehnologie;Ce este un driver de hardware?;Un program de navigare pe internet;Un program de editare video;Un program care controlează funcționarea unui dispozitiv hardware;Un tip de procesor;3  
+
+1;Single;Medium;Tehnologie;Ce înseamnă acronimul „RAM”?;Read Access Memory;Random Access Memory;Rapid Access Memory;Random Audio Memory;2
+2;Single;Medium;Tehnologie;Care este scopul unui firewall într-o rețea de calculatoare?;Blocarea traficului;Creșterea vitezei internetului;Protejarea împotriva virușilor;Crearea rețelelor wireless;1
+3;Single;Medium;Tehnologie;Ce este un sistem de management al bazelor de date?;Un program de stocare a fișierelor;Un program pentru crearea de website-uri;Un program pentru gestionarea datelor;Un program de procesare a textului;3
+4;Single;Medium;Tehnologie;Ce reprezintă acronimul „IoT”?;Internet of Things;Internet of Technology;Input Output Technology;Interactive Online Tools;1
+5;Single;Medium;Tehnologie;Care dintre următoarele este un tip de rețea locală?;LAN;WAN;MAN;VPN;1
+6;Single;Medium;Tehnologie;Care este diferența principală între un SSD și un HDD?;Viteza de citire/scriere;Capacitatea de stocare;Dimensiunea fizică;Prețul;1
+7;Single;Medium;Tehnologie;Care dintre următoarele este un limbaj de programare?;C#;HTML;CSS;JavaScript;1
+8;Single;Medium;Tehnologie;Cum se numește procesul de transformare a datelor brute într-o formă utilizabilă?;Analiza de date;Prelucrarea datelor;Arhivarea datelor;Stocarea datelor;2
+9;Single;Medium;Tehnologie;Ce este „cloud computing”?;Stocarea de date pe servere externe;Stocarea datelor pe hard disk;Crearea unui sistem de operare;Crearea de rețele wireless;1
+10;Single;Medium;Tehnologie;Ce dispozitiv folosește tehnologia NFC pentru comunicare?;Telefonul mobil;Laptopul;Imprimanta;Televizorul;1
+11;Single;Medium;Tehnologie;Ce este un GPU?;General Processing Unit;Graphics Processing Unit;Ground Processing Unit;Global Processing Unit;2
+12;Single;Medium;Tehnologie;Care este diferența între un server dedicat și un server partajat?;Resursele sunt exclusiv pentru un singur utilizator în cazul serverului dedicat;Resursele sunt partajate între mai mulți utilizatori în cazul serverului dedicat;Serverul dedicat este mai lent;Serverul partajat este mai rapid;1
+13;Single;Medium;Tehnologie;Ce înseamnă „phishing” în contextul internetului?;Furtul de date prin înșelătorii;Protejarea unui site web;Folosirea unui browser web;Verificarea unui cont online;1
+14;Single;Medium;Tehnologie;Care este scopul unui „router” într-o rețea de calculatoare?;Să protejeze rețeaua;Să direcționeze traficul între rețele;Să gestioneze stocarea datelor;Să proceseze datele;2
+15;Single;Medium;Tehnologie;Ce înseamnă acronimul „API”?;Application Program Interface;Automated Program Interface;Applied Program Interface;Application Processing Interface;1
+16;Single;Medium;Tehnologie;Ce este un "VPN"?;Virtual Private Network;Very Public Network;Virtual Public Network;Virtual Processor Node;1
+17;Single;Medium;Tehnologie;Care este rolul unui algoritm în programare?;Execută calcule complexe;Definește secvența de pași pentru o anumită sarcină;Este un tip de bază de date;Protejează rețeaua;2
+18;Single;Medium;Tehnologie;Cum se numește procesul de criptare a datelor pentru protecție?;Encripție;Autentificare;Desenare;Sincronizare;1
+19;Single;Medium;Tehnologie;Ce reprezintă „Big Data”?;Cantități mari de date ce nu pot fi procesate tradițional;Un tip de bază de date;Un sistem de operare;Un limbaj de programare;1
+20;Single;Medium;Tehnologie;Ce tehnologie permite controlul unui dispozitiv prin gesturi?;Comenzi vocale;Interfața cu utilizatorul;Comenzi prin mișcare;Comenzi prin touch screen;3
+
+1;Single;Hard;Tehnologie;Ce este un „blockchain”?;Un tip de bază de date descentralizată;Un limbaj de programare;Un tip de server;Un tip de rețea socială;1  
+2;Single;Hard;Tehnologie;Ce reprezintă acronimul „CPU”?;Computer Program Unit;Computer Processing Unit;Central Processor Unit;Central Processing Unit;4  
+3;Single;Hard;Tehnologie;Ce tip de procesor este utilizat pentru serverele de baze de date?;Xeon;Core i7;MIPS;ARM;1  
+4;Single;Hard;Tehnologie;Care este scopul unui „data warehouse”?;Realizarea de analize de date online;Stocarea datelor pentru prelucrarea ulterioară;Crearea unui site web;Protejarea rețelelor de calculatoare;2  
+5;Single;Hard;Tehnologie;Ce înseamnă acronimul „AI”?;Artificial Interference;Automated Interference;Automated Intelligence;Artificial Intelligence;4  
+6;Single;Hard;Tehnologie;Ce este un „load balancer” în infrastructura IT?;Un server de baze de date;Un dispozitiv care distribuie traficul între mai multe servere;Un tip de procesor;Un tip de software antivirus;2  
+7;Single;Hard;Tehnologie;Ce înseamnă acronimul „SaaS”?;System as a Service;Storage as a Service;Security as a Service;Software as a Service;4  
+8;Single;Hard;Tehnologie;Care este diferența principală între un SSD și un HDD?;Viteza de citire/scriere;Prețul;Capacitatea de stocare;Dimensiunea fizică;4  
+9;Single;Hard;Tehnologie;Care este cel mai utilizat limbaj de programare pentru dezvoltarea de aplicații web?;PHP;Java;Python;JavaScript;4  
+10;Single;Hard;Tehnologie;Care este funcția principală a unui „load balancer” într-o rețea de servere?;Criptează datele;Protejează rețelele;Distribuie traficul;Stochează datele;3  
+11;Single;Hard;Tehnologie;Ce înseamnă acronimul „IaaS”?;Information as a Service;Infrastructure as a Service;Interface as a Service;Integration as a Service;2  
+12;Single;Hard;Tehnologie;Ce tehnologie este folosită pentru realizarea imprimantelor 3D?;Laser;Filament;Fibră de carbon;Materiale plastice;2  
+13;Single;Hard;Tehnologie;Ce reprezintă acronimul „SQL”?;Serial Query Language;System Query Language;Structured Query Language;Simple Query Language;3  
+14;Single;Hard;Tehnologie;Ce este un „microservice” în dezvoltarea software?;Un serviciu de securitate pentru rețele;Un tip de procesor;Un serviciu mic care îndeplinește o funcționalitate specifică;Un tip de aplicație mobilă;3  
+15;Single;Hard;Tehnologie;Ce este un „container” în contextul dezvoltării de software?;Un sistem de operare;Un tip de server;Un dispozitiv de stocare;Un mediu izolat pentru rularea aplicațiilor;4  
+16;Single;Hard;Tehnologie;Cum se numește procesul de criptare a unui fișier pentru a preveni accesul neautorizat?;Autentificare;Decriptare;Desenare;Criptare;4  
+17;Single;Hard;Tehnologie;Ce reprezintă acronimul „B2B”?;Back to Business;Business to Business;Business to Bank;Business to Buyer;2  
+18;Single;Hard;Tehnologie;Ce tehnologie permite dezvoltarea unor aplicații care rulează pe mai multe platforme?;Python;JavaScript;Node.js;React Native;4  
+19;Single;Hard;Tehnologie;Ce este „virtualizarea” într-o infrastructură IT?;Crearea unui sistem de operare;Crearea unui server dedicat;Crearea mai multor instanțe de servere pe același hardware;Crearea unui site web;4  
+20;Single;Hard;Tehnologie;Cum se numește procesul de gestionare a resurselor de calcul în cloud?;Cloud security;Cloud provisioning;Cloud storage;Cloud computing;4  
+
+
+
+
+
+1;Single;Easy;Arta si cultura;Cine a pictat Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Claude Monet;3
+2;Single;Easy;Arta si cultura;Ce curent artistic este asociat cu lucrările lui Pablo Picasso?;Impresionism;Cubism;Realism;Surrealism;2
+3;Single;Easy;Arta si cultura;Cine a scris „Romeo și Julieta”?;Victor Hugo;William Shakespeare;Charles Dickens;Jane Austen;2
+4;Single;Easy;Arta si cultura;În ce țară a fost construit Taj Mahal?;China;India;Egipt;Indonezia;2
+5;Single;Easy;Arta si cultura;Care dintre următoarele opere a fost scrisă de Homer?;Odiseea;Divina Comedie;Iliada;Don Quijote;3
+6;Single;Easy;Arta si cultura;Ce artist este cunoscut pentru lucrările sale de sculptură în marmură, precum „David” și „Pietà”?;Michelangelo;Donatello;Raphael;Leonardo da Vinci;1
+7;Single;Easy;Arta si cultura;Ce este o frescă?;Un tablou pe pânză;O pictură realizată pe perete;Un tip de sculptură;Un stil de muzică;2
+8;Single;Easy;Arta si cultura;Cine a pictat „Fata cu cercel de perlă”?;Rembrandt;Johannes Vermeer;Frida Kahlo;Claude Monet;2
+9;Single;Easy;Arta si cultura;Care este capitala Franței, un important centru cultural și artistic?;Madrid;Roma;Londra;Paris;4
+10;Single;Easy;Arta si cultura;Care este stilul arhitectural al Catedralei Notre-Dame din Paris?;Baroc;Gotic;Renascență;Rococo;2
+11;Single;Easy;Arta si cultura;Cine a scris „Micul Prinț”?;Victor Hugo;Antoine de Saint-Exupéry;J.R.R. Tolkien;Charles Dickens;2
+12;Single;Easy;Arta si cultura;Ce tip de artă este asociat cu Andy Warhol?;Impresionism;Pop Art;Art Nouveau;Realism;2
+13;Single;Easy;Arta si cultura;În ce oraș se află muzeul Luvru?;Roma;Londra;Paris;Berlin;3
+14;Single;Easy;Arta si cultura;Care este cunoscută ca „capitala muzicii clasice”?;Viena;Paris;Berlin;Moscova;1
+15;Single;Easy;Arta si cultura;Cine este autorul romanului „1984”?;George Orwell;Aldous Huxley;F. Scott Fitzgerald;Harper Lee;1
+16;Single;Easy;Arta si cultura;Ce tip de artă este asociat cu Gaudí?;Baroc;Modernism;Rococo;Art Nouveau;2
+17;Single;Easy;Arta si cultura;Ce pictor este cunoscut pentru tabloul „Starry Night”?;Vincent van Gogh;Claude Monet;Salvador Dalí;Pablo Picasso;1
+18;Single;Easy;Arta si cultura;Ce operă literară a fost scrisă de Franz Kafka?;Micul Prinț;Metamorfoza;1984;Crimă și pedeapsă;2
+19;Single;Easy;Arta si cultura;Ce curent artistic este asociat cu lucrările lui Claude Monet?;Impresionism;Postimpresionism;Baroc;Realism;1
+20;Single;Easy;Arta si cultura;Cine a regizat filmul „Titanic”?;Steven Spielberg;James Cameron;Quentin Tarantino;Martin Scorsese;2
+
+1;Single;Medium;Arta si cultura;Ce sculptură este considerată una dintre cele mai mari opere ale lui Michelangelo?;Pietà;David;Moise;Sfântul Petru;2  
+2;Single;Medium;Arta si cultura;Ce artist renascentist este cunoscut pentru pictura „Ultima Cină”?;Michelangelo;Raphael;Leonardo da Vinci;Donatello;3  
+3;Single;Medium;Arta si cultura;Care este autorul romanului „Utopia”?;Hobbes;John Locke;Jean-Jacques Rousseau;Thomas More;4  
+4;Single;Medium;Arta si cultura;În ce oraș a fost construit celebrul Colosseum?;Napoli;Atena;Roma;Paris;3  
+5;Single;Medium;Arta si cultura;Cine a pictat „Cina cea de taină”?;Caravaggio;Michelangelo;Leonardo da Vinci;Raphael;3  
+6;Single;Medium;Arta si cultura;Cine a fost cel mai faimos pictor al școlii venețiene de pictură?;Caravaggio;Rubens;Titian;Vermeer;3  
+7;Single;Medium;Arta si cultura;Ce curent artistic a influențat „Mona Lisa” și „Ultima Cină”?;Impresionism;Baroc;Rococo;Renașterea;4  
+8;Single;Medium;Arta si cultura;Cine a scris „Frankenstein”?;Mary Shelley;Charles Dickens;H.G. Wells;J.R.R. Tolkien;2  
+9;Single;Medium;Arta si cultura;Cine a fost compozitorul „Simfoniei a 9-a”?;Johann Sebastian Bach;Wolfgang Amadeus Mozart;Frédéric Chopin;Ludwig van Beethoven;4  
+10;Single;Medium;Arta si cultura;Care dintre următoarele opere este considerată o capodoperă a lui Shakespeare?;Macbeth;Don Giovanni;Don Quijote;Război și pace;2  
+11;Single;Medium;Arta si cultura;Care dintre următoarele sculpturi este realizată de Auguste Rodin?;Venus din Milo;Laocoonte;David;Gânditorul;3  
+12;Single;Medium;Arta si cultura;Care artist este cunoscut pentru lucrările sale de artă abstractă?;Pablo Picasso;Andy Warhol;Claude Monet;Jackson Pollock;4  
+13;Single;Medium;Arta si cultura;Ce este un „triptic”?;O pictură mare;O sculptură;Un tip de muzică;O pictură cu trei părți;4  
+14;Single;Medium;Arta si cultura;În ce țară s-a născut artistul Salvador Dalí?;Italia;Germania;Spania;Franța;3  
+15;Single;Medium;Arta si cultura;Ce curent literar a fost popular în secolul al XIX-lea?;Realismul;Barocul;Romantismul;Clasicismul;4  
+16;Single;Medium;Arta si cultura;Ce scriitor american a scris „Mândrie și prejudecată”?;Charles Dickens;Herman Melville;Mark Twain;Jane Austen;4  
+17;Single;Medium;Arta si cultura;Care este stilul arhitectural al Sagrada Familia?;Goticul;Baroc;Renascența;Modernism;4  
+18;Single;Medium;Arta si cultura;Ce curent artistic este asociat cu lucrările lui Salvador Dalí?;Impresionism;Art Nouveau;Surrealism;Futurism;4  
+19;Single;Medium;Arta si cultura;Cine a pictat „Născuți din vânt”?;Pablo Picasso;Wassily Kandinsky;Salvador Dalí;Jackson Pollock;4  
+20;Single;Medium;Arta si cultura;Care este autorul romanului „Marele Gatsby”?;Ernest Hemingway;F. Scott Fitzgerald;John Steinbeck;Mark Twain;4  
+
+1;Single;Hard;Arta si cultura;Ce tip de pictură este „Furtuna” a lui Giorgione?;Impresionism;Renaștere;Baroc;Realism;2
+2;Single;Hard;Arta si cultura;Cine este autorul romanului „În căutarea timpului pierdut”?;James Joyce;Virginia Woolf;F. Scott Fitzgerald;Marcel Proust;4
+3;Single;Hard;Arta si cultura;Ce curent artistic este asociat cu lucrările lui Matisse și Picasso?;Futurism;Impresionism;Abstractism;Cubism;4
+4;Single;Hard;Arta si cultura;Cine a scris „Micul Prinț” și ce impact a avut asupra literaturii moderne?;Albert Camus;Franz Kafka;Antoine de Saint-Exupéry;Jean-Paul Sartre;3
+5;Single;Hard;Arta si cultura;Ce artist italian este cunoscut pentru lucrările de artă religioasă în perioada Renașterii?;Raphael;Donatello;Caravaggio;Michelangelo;3
+6;Single;Hard;Arta si cultura;Care este stilul arhitectural al palatului Versailles?;Rococo;Goticul;Renașterea;Baroc;4
+7;Single;Hard;Arta si cultura;Ce mișcare literară a influențat profund scrierile lui James Joyce?;Romantismul;Clasicismul;Realismul;Modernismul;4
+8;Single;Hard;Arta si cultura;Care este rolul „teoriei culorilor” în pictura modernă?;De a spori contrastul;De a obține efecte de lumină;De a crea umbre și linii;De a combina armonios culorile;4
+9;Single;Hard;Arta si cultura;Cine a regizat „La Dolce Vita”?;Federico Fellini;Alfred Hitchcock;Stanley Kubrick;Ingmar Bergman;4
+10;Single;Hard;Arta si cultura;Care a fost scopul școlii de la Bauhaus?;Promovarea curentului gotic;Crearea de lucrări de artă abstractă;Revoluționarea picturii clasice;Inovația în design și arhitectură;4
+11;Single;Hard;Arta si cultura;În ce an a fost realizată „Mona Lisa”?;1450;1510;1600;1503;4
+12;Single;Hard;Arta si cultura;Cine a fost primul autor al „Decameronului”?;Giovanni Boccaccio;William Shakespeare;Geoffrey Chaucer;Dante Alighieri;4
+13;Single;Hard;Arta si cultura;În ce stil arhitectural a fost construit celebrul palat al Alhambrei din Spania?;Moorish;Baroc;Goticul;Renaissance;4
+14;Single;Hard;Arta si cultura;Ce scriitor american a scris „O vară de neuitat”?;John Steinbeck;F. Scott Fitzgerald;Mark Twain;Ernest Hemingway;4
+15;Single;Hard;Arta si cultura;Care artist italian a fost asociat cu mișcarea futuristă?;Giorgio de Chirico;Carlo Carrà;Umberto Boccioni;Marcel Duchamp;3
+16;Single;Hard;Arta si cultura;Ce compozitor este cunoscut pentru „Simfonia a 9-a”?;Wolfgang Amadeus Mozart;Franz Schubert;Johann Sebastian Bach;Ludwig van Beethoven;4
+17;Single;Hard;Arta si cultura;Care pictură celebră a lui Monet este asociată cu începuturile impresioniștilor?;Impresia, răsăritul soarelui;Cina cea de taină;Furtuna;Născuți din vânt;4
+18;Single;Hard;Arta si cultura;În ce an a fost creat „Căpcăunul” de Picasso?;1924;1928;1922;1925;3
+19;Single;Hard;Arta si cultura;Cine a creat capodopera „Catedrala” în Paris?;Giorgio de Chirico;René Magritte;August Rodin;Marcel Duchamp;3
+20;Single;Hard;Arta si cultura;Care mișcare artistică este legată de lucrările lui Marcel Duchamp?;Cubism;Impresionism;Futurism;Dadaism;4
+
+
+
+
+
+1;Single;Easy;Sport;Care este sportul național al Japoniei?;Sumi;Fotbal;Baseball;Rugby;3
+2;Single;Easy;Sport;Care echipă de fotbal a câștigat cele mai multe titluri de campion în Anglia?;Manchester United;Liverpool;Arsenal;Chelsea;1
+3;Single;Easy;Sport;Care este cel mai rapid animal terestru?;Leu;Tigrul;Ghepard;Elefantul;3
+4;Single;Easy;Sport;Cine este cunoscut pentru performanțele sale în natație la Jocurile Olimpice?;Michael Jordan;Michael Phelps;Usain Bolt;Roger Federer;2
+5;Single;Easy;Sport;Care este cel mai mare turneu de tenis?;Roland Garros;Wimbledon;US Open;Australian Open;2
+6;Single;Easy;Sport;În ce sport se utilizează o minge de tenis?;Fotbal;Hochei;Tenis;Baschet;3
+7;Single;Easy;Sport;Cine a câștigat cele mai multe medalii la Jocurile Olimpice?;Michael Phelps;Usain Bolt;Larisa Latynina;Carl Lewis;1
+8;Single;Easy;Sport;Care sport se joacă cu o minge rotundă și este popular în toată lumea?;Cricket;Baseball;Fotbal;Rugby;3
+9;Single;Easy;Sport;Care este sportul în care un jucător trebuie să lovească mingea cu o rachetă?;Golf;Baseball;Tenis;Hochei;3
+10;Single;Easy;Sport;Ce tip de echipament este folosit în sportul de hochei pe gheață?;Minge;Cască;Minge de fotbal;Rachetă;2
+11;Single;Easy;Sport;Cine a câștigat Balonul de Aur în 2021?;Lionel Messi;Cristiano Ronaldo;Robert Lewandowski;Mohamed Salah;1
+12;Single;Easy;Sport;În ce sport se joacă cu o minge de rugby?;Fotbal;Cricket;Rugby;Hochei;3
+13;Single;Easy;Sport;Care este capitala Franței, un loc celebru pentru turneul de tenis Wimbledon?;Londra;Paris;Berlin;Madrid;2
+14;Single;Easy;Sport;Cine este considerat cel mai mare jucător de fotbal din istorie?;Diego Maradona;Cristiano Ronaldo;Lionel Messi;Pele;3
+15;Single;Easy;Sport;Care este sportul asociat cu formula 1?;Fotbal;Ciclism;Automobilism;Volei;3
+16;Single;Easy;Sport;Care este sportul național al SUA?;Baseball;Fotbal;Basketball;Cricket;3
+17;Single;Easy;Sport;Care este cel mai popular sport în India?;Fotbal;Cricket;Rugby;Hochei;2
+18;Single;Easy;Sport;Ce sport se joacă cu un disc zburător?;Golf;Baseball;Ultimate Frisbee;Basketball;3
+19;Single;Easy;Sport;Care sport are loc pe o pistă de atletism?;Fotbal;Volei;Atletism;Hochei;3
+20;Single;Easy;Sport;În ce sport participă echipe de 5 jucători pe fiecare parte?;Handbal;Volei;Baschet;Hochei;3
+
+1;Single;Medium;Sport;Care este cel mai mare turneu de fotbal din Europa?;Liga Campionilor UEFA;Cupa Mondială;Cupa Europeană;Cupa Confederațiilor;1
+2;Single;Medium;Sport;Cine este cunoscut drept „Regele fotbalului”?;Cristiano Ronaldo;Lionel Messi;Diego Maradona;Pele;2
+3;Single;Medium;Sport;Care este cel mai important turneu de tenis din Statele Unite?;US Open;Roland Garros;Australian Open;Wimbledon;1
+4;Single;Medium;Sport;Care echipă de fotbal a câștigat cele mai multe titluri în istoria La Liga?;Real Madrid;Barcelona;Atletico Madrid;Valencia;1
+5;Single;Medium;Sport;Cine este considerat cel mai mare jucător de baschet din toate timpurile?;LeBron James;Kobe Bryant;Michael Jordan;Shaquille O'Neal;3
+6;Single;Medium;Sport;În ce sport este folosită o minge ovoidă?;Fotbal;Rugby;Baschet;Hochei;2
+7;Single;Medium;Sport;În ce an a fost fondat clubul de fotbal FC Barcelona?;1901;1899;1910;1925;2
+8;Single;Medium;Sport;Cine a fost primul jucător de tenis care a câștigat 20 de titluri de Grand Slam?;Roger Federer;Rafael Nadal;Novak Djokovic;Pete Sampras;1
+9;Single;Medium;Sport;Care este sportul care combină fotbalul și rugby-ul?;Futsal;Călărie;Cricket;Aussie Rules;4
+10;Single;Medium;Sport;Cine este cunoscut pentru recordul său de sprint la 100 de metri?;Michael Phelps;Usain Bolt;Carl Lewis;Mo Farah;2
+11;Single;Medium;Sport;Care este cel mai mare eveniment sportiv internațional?;Jocurile Olimpice;Cupa Mondială;Liga Campionilor UEFA;Super Bowl;1
+12;Single;Medium;Sport;Care echipă de fotbal a câștigat cele mai multe titluri de campion în Italia?;Juventus;AC Milan;Inter Milan;Roma;1
+13;Single;Medium;Sport;Cine a câștigat Super Bowl în 2020?;Kansas City Chiefs;San Francisco 49ers;New England Patriots;Green Bay Packers;1
+14;Single;Medium;Sport;Care este sportul național al Canadei?;Hochei pe gheață;Fotbal;Rugby;Baseball;1
+15;Single;Medium;Sport;Ce sport este practicat pe o pârtie de schi?;Schi;Snowboard;Patinaj;Fotbal;2
+16;Single;Medium;Sport;Ce sport se joacă pe un teren de 400 de metri?;Baschet;Atletism;Hochei;Fotbal;2
+17;Single;Medium;Sport;În ce sport se face „slam dunk”?;Baschet;Volei;Fotbal;Rugby;1
+18;Single;Medium;Sport;Care este cel mai mare stadion de fotbal din lume?;Camp Nou;Maracanã;Old Trafford;Wembley;2
+19;Single;Medium;Sport;Ce echipă de fotbal a câștigat cel mai mult în Anglia?;Manchester United;Liverpool;Chelsea;Arsenal;1
+20;Single;Medium;Sport;Cine a fost numit cel mai bun jucător din lume în 2020?;Lionel Messi;Cristiano Ronaldo;Robert Lewandowski;Kevin De Bruyne;3
+
+1;Single;Hard;Sport;Care este recordul mondial la 100m sprint?;9.70 secunde;9.58 secunde;9.45 secunde;9.85 secunde;2
+2;Single;Hard;Sport;Care este cel mai mare club de fotbal din Brazilia?;Santos;São Paulo;Palmeiras;Flamengo;4
+3;Single;Hard;Sport;Care jucător a marcat cele mai multe goluri într-un sezon al Ligii Campionilor?;Cristiano Ronaldo;Robert Lewandowski;Lionel Messi;Raúl;2
+4;Single;Hard;Sport;Cine este cel mai bun jucător de golf din toate timpurile?;Jack Nicklaus;Rory McIlroy;Arnold Palmer;Tiger Woods;4
+5;Single;Hard;Sport;Cine a câștigat cea mai mare parte a meciurilor de la Wimbledon?;Roger Federer;Pete Sampras;Novak Djokovic;Rafael Nadal;4
+6;Single;Hard;Sport;Care este numele celei mai mari competiții de fotbal din lume?;Super Cupa UEFA;Liga Campionilor UEFA;Cupa Mondială FIFA;Cupa Confederațiilor;3
+7;Single;Hard;Sport;Cine a câștigat cel mai mult la Campionatele Mondiale de Formula 1?;Michael Schumacher;Ayrton Senna;Lewis Hamilton;Juan Manuel Fangio;3
+8;Single;Hard;Sport;Care echipă a câștigat cele mai multe Super Bowls?;San Francisco 49ers;Dallas Cowboys;New England Patriots;Pittsburgh Steelers;3
+9;Single;Hard;Sport;Cine a fost jucătorul cu cele mai multe goluri în Liga Campionilor UEFA?;Raúl;Zlatan Ibrahimović;Cristiano Ronaldo;Lionel Messi;3
+10;Single;Hard;Sport;Ce echipă a câștigat cele mai multe titluri de NBA?;Golden State Warriors;Los Angeles Lakers;Boston Celtics;Chicago Bulls;3
+11;Single;Hard;Sport;Care este recordul mondial la 200m sprint?;19.49 secunde;19.35 secunde;19.88 secunde;19.19 secunde;4
+12;Single;Hard;Sport;Cine a fost jucătorul cu cele mai multe medalii olimpice din istorie?;Mark Spitz;Carl Lewis;Michael Phelps;Larisa Latynina;3
+13;Single;Hard;Sport;Care este sportul în care se joacă la „Wimbledon”?;Baschet;Fotbal;Patinaj artistic;Tenis;4
+14;Single;Hard;Sport;Care echipă de fotbal a câștigat cele mai multe titluri în Spania?;Atletico Madrid;Barcelona;Real Madrid;Valencia;3
+15;Single;Hard;Sport;În ce sport se acordă puncte pentru „triple axel”?;Schi;Patinaj pe viteză;Gimnastică;Patinaj artistic;4
+16;Single;Hard;Sport;Cine a câștigat cele mai multe medalii olimpice de aur în istoria atletismului?;Carl Lewis;Allyson Felix;Usain Bolt;Paavo Nurmi;2
+17;Single;Hard;Sport;Care echipă de fotbal a câștigat cele mai multe titluri în Bundesliga?;Borussia Dortmund;RB Leipzig;Bayer Leverkusen;Bayern Munchen;4
+18;Single;Hard;Sport;Care este cel mai bun jucător din istoria Ligii Campionilor?;Raúl;Cristiano Ronaldo;Lionel Messi;Zlatan Ibrahimović;2
+19;Single;Hard;Sport;Cine a fost cel mai mare jucător din istoria rugby-ului?;Martin Johnson;Richie McCaw;Dan Carter;Jonah Lomu;4
+20;Single;Hard;Sport;Cine a câștigat cel mai mult la Campionatele Mondiale de Fotbal?;Italia;Argentina;Brazilia;Germania;3
+
+
+
+
+
+1;Single;Easy;Economie;Ce monedă se folosește în Germania?;Euro;Dolar;Lira;Franco;1
+2;Single;Easy;Economie;Care este capitala Japoniei?;Beijing;Seul;Tokyo;Bangkok;3
+3;Single;Easy;Economie;Care este termenul pentru bani în circulație într-o țară?;Inflație;Deflație;Monedă;Economia subterană;3
+4;Single;Easy;Economie;Cine este fondatorul Apple?;Bill Gates;Steve Jobs;Mark Zuckerberg;Larry Page;2
+5;Single;Easy;Economie;Care este termenul pentru o scădere a prețurilor produselor și serviciilor într-o economie?;Inflație;Deflație;Criză economică;Recesiune;2
+6;Single;Easy;Economie;Ce înseamnă PIB?;Produs Intern Brut;Punctul Intern Brut;Punctul Intern Bilateral;Politica Internă Bilaterală;1
+7;Single;Easy;Economie;Cine este considerat părintele economiei moderne?;Adam Smith;Karl Marx;John Maynard Keynes;Milton Friedman;1
+8;Single;Easy;Economie;Care este cea mai mare economie din lume?;China;SUA;India;Japonia;2
+9;Single;Easy;Economie;Care este tipul de taxă aplicat pe venituri?;Taxă pe profit;Taxă pe valoare adăugată;Taxă pe venit;Taxă pe avere;3
+10;Single;Easy;Economie;Ce este inflația?;Creșterea prețurilor;Scăderea prețurilor;Scăderea valorii monedei;Creșterea valorii monedei;1
+11;Single;Easy;Economie;Ce semnifică termenul "criză economică"?;Scădere bruscă a producției;Creștere economică;Instabilitate politică;Creștere a PIB-ului;1
+12;Single;Easy;Economie;Care este termenul folosit pentru scăderea valorii unei monede naționale?;Devalorizare;Recesiune;Deflație;Inflație;1
+13;Single;Easy;Economie;Care este scopul principal al Băncii Centrale?;Să regleze politica fiscală;Să controleze rata dobânzii;Să reglementeze prețurile;Să controleze inflația;2
+14;Single;Easy;Economie;Ce înseamnă termenul "volatilitate"?;Stabilitate a pieței;Creștere bruscă a prețurilor;Schimbare rapidă a prețurilor;Scădere a pieței financiare;3
+15;Single;Easy;Economie;Care este simbolul valutar al SUA?;GBP;JPY;USD;EUR;3
+16;Single;Easy;Economie;Care este moneda folosită în Marea Britanie?;Euro;Sterling;Franco;Yen;2
+17;Single;Easy;Economie;Cine a creat teoria pieței libere?;Karl Marx;John Maynard Keynes;Adam Smith;Milton Friedman;3
+18;Single;Easy;Economie;Care este termenul pentru dobânda aplicată unui împrumut?;Taxă;Comision;Rate;Dobândă;4
+19;Single;Easy;Economie;Ce înseamnă termenul "privatizare"?;Vânzarea unui bun de stat către un privat;Vânzarea unui bun privat către stat;Creșterea statului în economie;Reducerea prețurilor produselor;1
+20;Single;Easy;Economie;Ce tip de taxe sunt aplicate bunurilor și serviciilor?;Taxă pe venit;Taxă pe valoare adăugată;Taxă pe profit;Taxă pe avere;2
+
+1;Single;Medium;Economie;Care este rata dobânzii de politică monetară în zona euro?;1%;2%;0,5%;3%;3
+2;Single;Medium;Economie;Cum se numește procesul de stabilire a prețurilor într-o economie de piață?;Liberalizare;Reglementare;Planificare;Controale prețurilor;1
+3;Single;Medium;Economie;Ce reprezintă termenul "rezerva federală" în SUA?;O bancă comercială;Banca Centrală a SUA;Ministerul Finanțelor;O organizație privată;2
+4;Single;Medium;Economie;Care este termenul pentru o creștere economică susținută pe termen lung?;Recesiune;Criză economică;Creștere economică;Expansiune economică;4
+5;Single;Medium;Economie;Care este termenul pentru procesul de globalizare economică?;Interdependență;Autarhie;Izolare;Neoliberalism;1
+6;Single;Medium;Economie;Cum se numește bursa de valori din New York?;NASDAQ;London Stock Exchange;Tokyo Stock Exchange;New York Stock Exchange;4
+7;Single;Medium;Economie;Ce înseamnă termenul "economia globală"?;Economia locală;Economia unei singure țări;Economia în care sunt implicate toate țările;Economia unei regiuni;3
+8;Single;Medium;Economie;Ce înseamnă termenul "stagflație"?;Creșterea PIB-ului;Scăderea inflației;Creșterea inflației în timp ce economia stagnează;Scăderea pieței financiare;3
+9;Single;Medium;Economie;Cum se numește procesul prin care o țară adoptă o monedă străină?;Euroizare;Dolarizare;Privatizare;Globalizare;2
+10;Single;Medium;Economie;Ce este OPEC?;O organizație pentru protecția economiilor emergente;Organizația țărilor exportatoare de petrol;Organizația globală pentru comerț;Organizația interguvernamentală pentru dezvoltare economică;2
+11;Single;Medium;Economie;Care sunt principalele funcții ale unei bănci centrale?;Emiterea de monedă;Stabilizarea economiei;Controlul inflației;Toate cele de mai sus;4
+12;Single;Medium;Economie;Cum se numește schimbul de bunuri și servicii între două țări?;Comerț exterior;Investiții externe;Flux financiar;Comerț intern;1
+13;Single;Medium;Economie;Cum se numește procesul prin care o companie devine mai eficientă și reduce costurile?;Inovație;Automatizare;Restructurare;Revenire economică;3
+14;Single;Medium;Economie;Ce este un „fond de investiții”?;Un tip de bancă comercială;Un fond pentru economii;Un portofoliu de investiții colective;O platformă de comerț online;3
+15;Single;Medium;Economie;Ce înseamnă termenul „inflație galopantă”?;Creșterea moderată a prețurilor;Scăderea prețurilor;Creșterea rapidă și semnificativă a prețurilor;Scăderea valorii monedei;3
+16;Single;Medium;Economie;Ce este „indicele prețurilor de consum”?;Un indicator al producției economice;Un indicator al pieței financiare;Un indicator al evoluției prețurilor pentru bunuri și servicii;Un indicator al ratelor dobânzilor;3
+17;Single;Medium;Economie;Care sunt principalii factori care determină rata dobânzii?;Cererea și oferta de bani;Politica fiscală;Creșterea PIB-ului;Reducerea datoriei externe;1
+18;Single;Medium;Economie;Cum se numește procesul prin care o companie își extinde activitatea în afaceri internaționale?;Internaționalizare;Globalizare;Expansiune;Dezvoltare regională;1
+19;Single;Medium;Economie;Ce este „PPI” în economie?;Productivity Price Index;Prețul unui produs de bază;Prețul unui bun;Indexul prețurilor de producție;4
+20;Single;Medium;Economie;Cum se numește procesul prin care un guvern reduce cheltuielile pentru a reduce datoria publică?;Austeritate;Stimulus economic;Expansiune fiscală;Reducerea taxelor;1
+
+1;Single;Hard;Economie;Care este termenul pentru reducerea valorii monedei?;Devalorizare;Recesiune;Deflație;Inflație;1
+2;Single;Hard;Economie;Cum se numește abordarea economiei care pune accent pe libera concurență și piața liberă?;Capitalism;Socialism;Comunism;Mercantilism;1
+3;Single;Hard;Economie;Ce este politica monetară?;Managementul cheltuielilor guvernamentale;Modificarea taxelor;Manipularea circulației de bani și credit;Administrarea comerțului extern;3
+4;Single;Hard;Economie;Ce este "capitalul uman"?;Banii investiți în educație;Capitalul propriu al unei companii;Investițiile în resurse naturale;Capitalul investit în infrastructură;1
+5;Single;Hard;Economie;Care este diferența dintre PIB nominal și PIB real?;PIB nominal este ajustat pentru inflație, PIB real nu;PIB nominal se referă la economiile pe termen lung;PIB nominal se referă la producția de bunuri;PIB real se calculează folosind prețuri constante;4
+6;Single;Hard;Economie;Care este termenul pentru o combinație de economii și datorii publice?;Deficit bugetar;Datorie națională;Credit public;Rezervă valutară;2
+7;Single;Hard;Economie;Ce este „globalizarea financiară”?;Creșterea comerțului de bunuri;Expansiunea rapidă a companiilor multinaționale;Integrarea piețelor financiare internaționale;Împărțirea activităților economice în întreaga lume;3
+8;Single;Hard;Economie;Care este termenul pentru creșterea prețurilor bunurilor în mod constant într-o economie?;Deflație;Recesiune;Inflație;Expansiune economică;3
+9;Single;Hard;Economie;Ce înseamnă termenul „recesiune”?;O perioadă de creștere economică susținută;O perioadă de stagnare sau scădere a economiei;O perioadă de scădere a dobânzilor;O perioadă de inflație scăzută;2
+10;Single;Hard;Economie;Ce înseamnă termenul „băncile de dezvoltare”?;Bănci care administrează economiile de stat;Bănci care sprijină dezvoltarea infrastructurii și proiectelor;Bănci care oferă împrumuturi comerciale;Bănci care sprijină economiile locale;2
+11;Single;Hard;Economie;Care este principiul „efectului de levier” în economie?;Mărirea valorii unui activ cu ajutorul datoriilor;Reducerea datoriilor guvernamentale;Îmbunătățirea productivității muncii;Creșterea exporturilor pentru a obține profit;1
+12;Single;Hard;Economie;Cum se numește procesul de integrare a țărilor într-o uniune economică?;Monetizare;Globalizare economică;Unificare economică;Alianță economică;3
+13;Single;Hard;Economie;Ce este „indicele Dow Jones”?;Un indice care măsoară prețurile acțiunilor;Un indice al PIB-ului;Un indice de măsurare a inflației;Un indice pentru piața muncii;1
+14;Single;Hard;Economie;Ce înseamnă „tranzacțiile financiare transfrontaliere”?;Tranzacții financiare realizate între companii din aceeași țară;Tranzacții financiare realizate între companii din diferite țări;Tranzacții între guverne;Tranzacții între bănci centrale;2
+15;Single;Hard;Economie;Ce este „ciclul economic”?;Perioade de creștere și scădere economică;Un proces de ajustare a PIB-ului;O perioadă de inflație;Evoluția pieței financiare;1
+16;Single;Hard;Economie;Ce este „factorul de producție capital”?;Resurse naturale utilizate în producție;Munca disponibilă pentru producție;Instrumentele și echipamentele utilizate în producție;Banii care se investesc în producție;3
+17;Single;Hard;Economie;Ce înseamnă „paritatea puterii de cumpărare”?;Valoarea unei monede într-o altă economie;Echivalența veniturilor între două economii;Puterea de cumpărare a unei monede în diverse economii;Rata dobânzii într-o economie;3
+18;Single;Hard;Economie;Care este rolul principal al Fondului Monetar Internațional (FMI)?;Monitorizarea economiei globale;Stabilizarea piețelor financiare internaționale;Suportul financiar pentru țările în criză economică;Toate cele de mai sus;4
+19;Single;Hard;Economie;Ce este „politica fiscală”?;Politica monetară;Politica guvernamentală privind taxele și cheltuielile publice;Politica privind dobânzile;Politica privind comerțul internațional;2
+20;Single;Hard;Economie;Ce înseamnă „economia de piață”?;Economia în care guvernul controlează prețurile;Economia în care prețurile se stabilesc liber prin cerere și ofertă;Economia în care prețurile sunt stabilite de o autoritate centrală;Economia bazată pe producție de masă;2
+
+
+
+
+
+1;Single;Easy;Medicina;Ce parte a corpului uman este afectată de o fractură de femur?;Brațul;Piciorul;Spatele;Gâtul;2
+2;Single;Easy;Medicina;Care este principalul organ responsabil pentru respirație în corpul uman?;Inima;Plămânii;Ficatul;Stomacul;2
+3;Single;Easy;Medicina;Cum se numește procesul prin care sângele circulă în organism?;Respirație;Circulație;Digestie;Metabolism;2
+4;Single;Easy;Medicina;Ce vitamină este cunoscută pentru întărirea sistemului imunitar?;Vitamina A;Vitamina B;Vitamina C;Vitamina D;3
+5;Single;Easy;Medicina;Cum se numește medicul care se ocupă cu tratamentele dentare?;Chirurg;Dermatolog;Dentist;Pediatru;3
+6;Single;Easy;Medicina;Ce este hipertensiunea arterială?;Creșterea bruscă a temperaturii corpului;Scăderea tensiunii arteriale;Creșterea presiunii sângelui;Probleme la nivelul inimii;3
+7;Single;Easy;Medicina;Ce tip de sânge poate primi orice pacient în caz de urgență?;Sânge de tip A;Sânge de tip B;Sânge de tip AB;Sânge de tip O negativ;4
+8;Single;Easy;Medicina;Ce organ produce insulina?;Ficatul;Plămânii;Pancreasul;Splina;3
+9;Single;Easy;Medicina;Care este scopul principal al vaccinurilor?;Tratament pentru boli grave;Prevenirea bolilor infecțioase;Reducerea temperaturii corpului;Îmbunătățirea sistemului digestiv;2
+10;Single;Easy;Medicina;Cum se numește procesul de expulzare a aerului din plămâni?;Inspirație;Expirație;Respirație;Răsuflare;2
+11;Single;Easy;Medicina;Ce înseamnă termenul "emergent" în contextul medicinii?;Un tip de medicament;O boală care apare brusc;O boală foarte rară;Un tratament eficient;2
+12;Single;Easy;Medicina;Ce este o infecție virală?;O boală cauzată de bacterii;O boală cauzată de viruși;O boală cauzată de paraziți;O boală cauzată de fungi;2
+13;Single;Easy;Medicina;Cum se numește procesul prin care medicii examinează pacientul?;Diagnosticul;Tratamentul;Consultul;Evaluarea;3
+14;Single;Easy;Medicina;Care este principala cauză a cancerului de plămâni?;Fumatul;Poluarea;Lipsa exercițiilor fizice;Dieta nesănătoasă;1
+15;Single;Easy;Medicina;Ce este un "analize de sânge"?;Test de vedere;Test pentru măsurarea glicemiei;Test pentru evaluarea cantității de sânge;Test care evaluează starea generală a organismului;2
+16;Single;Easy;Medicina;Ce se înțelege prin "medicină preventivă"?;Tratamentul bolilor grave;Vaccinarea și educația sanitară;Tratament pentru răceală;Toate cele de mai sus;2
+17;Single;Easy;Medicina;Cum se numește medicul care se ocupă cu tratamentele pielii?;Dermatolog;Chirurg plastician;Oftalmolog;Neurolog;1
+18;Single;Easy;Medicina;Ce parte a corpului este afectată de o infecție a urechii?;Gâtul;Ochii;Nasul;Urechea;4
+19;Single;Easy;Medicina;Care dintre următoarele este un simptom al răcelii?;Febra mare;Durere de cap severă;Nas înfundat;Dureri musculare puternice;3
+20;Single;Easy;Medicina;Cum se numește proteina care transportă oxigenul în sânge?;Hemoglobina;Insulina;Colagenul;Amilaza;1
+
+1;Single;Medium;Medicina;Ce tip de cancer afectează cel mai frecvent pielea?;Cancer pulmonar;Melanom;Leucemie;Cancer de colon;2
+2;Single;Medium;Medicina;Cum se numește procesul prin care organismul se adaptează la stres?;Alimentație;Rezistență;Răspuns la stres;Reabilitare;3
+3;Single;Medium;Medicina;Care dintre următoarele este un simptom al diabetului de tip 2?;Sete excesivă;Durere de cap frecventă;Pierdere bruscă în greutate;Oboseală constantă;1
+4;Single;Medium;Medicina;Ce parte a corpului este afectată de artrita reumatoidă?;Oasele;Articulațiile;Mușchii;Sistemul nervos;2
+5;Single;Medium;Medicina;Ce este insuficiența renală acută?;Scăderea bruscă a funcției rinichilor;Scăderea funcției inimii;Scăderea tensiunii arteriale;Scăderea glicemiei;1
+6;Single;Medium;Medicina;Ce este "anemia"?;Scăderea numărului de globule roșii din sânge;Creșterea numărului de globule roșii din sânge;Scăderea tensiunii arteriale;Creșterea nivelului de glucoză în sânge;1
+7;Single;Medium;Medicina;Ce este un accident vascular cerebral (AVC)?;O insuficiență renală;O hemoragie internă;O întrerupere bruscă a fluxului sanguin către creier;O creștere a presiunii intracraniene;3
+8;Single;Medium;Medicina;Cum se numește boala caracterizată prin oase fragile și ușor de fracturat?;Osteoporoza;Artrita;Artroza;Gout;1
+9;Single;Medium;Medicina;Ce este hipertensiunea arterială?;O creștere a temperaturii corpului;O creștere a tensiunii arteriale;O scădere a nivelului de glucoză din sânge;O scădere a nivelului de calciu din sânge;2
+10;Single;Medium;Medicina;Care este cel mai frecvent tip de colesterol care poate duce la boli cardiovasculare?;Colesterolul HDL;Colesterolul LDL;Colesterolul total;Colesterolul VLDL;2
+11;Single;Medium;Medicina;Ce este un accident vascular cerebral ischemic?;Un tip de AVC cauzat de blocarea unui vas de sânge;Un tip de AVC cauzat de spargerea unui vas de sânge;Un tip de AVC cauzat de o infecție;Un tip de AVC cauzat de o creștere a presiunii arteriale;1
+12;Single;Medium;Medicina;Cum se numește boala autoimună în care sistemul imunitar atacă glandele tiroide?;Hiperparatiroidism;Tiroidită Hashimoto;Scleroză multiplă;Diabetul de tip 1;2
+13;Single;Medium;Medicina;Ce este o infecție nosocomială?;O infecție cauzată de bacterii;O infecție apărută în spitale;O infecție apărută în aer liber;O infecție cauzată de viruși;2
+14;Single;Medium;Medicina;Care este principala cauză a bolii Alzheimer?;Mediul;Fumatul;Vârsta înaintată și factori genetici;Alimentația nesănătoasă;3
+15;Single;Medium;Medicina;Ce este un tratament de "chimio-terapie"?;Tratament cu antibiotice;Tratament cu radiații;Tratament cu medicamente pentru cancer;Tratament cu hormoni;3
+16;Single;Medium;Medicina;Cum se numește procesul de reparare a țesuturilor deteriorate?;Cicatrizare;Hidratare;Vindecare;Recuperare;1
+17;Single;Medium;Medicina;Ce este un transplant de organe?;Tratament pentru răceli;Intervenție chirurgicală pentru înlocuirea unui organ bolnav cu unul sănătos;Reabilitarea unui pacient după accident;Terapie cu medicamente;2
+18;Single;Medium;Medicina;Care dintre următoarele este un factor de risc pentru bolile cardiovasculare?;Alimentația echilibrată;Exercițiile fizice regulate;Fumatul;Toate cele de mai sus;3
+19;Single;Medium;Medicina;Care este primul semn al unei infecții respiratorii?;Febra;Durerea în gât;Nasul înfundat;Dureri musculare;2
+20;Single;Medium;Medicina;Ce medicament este utilizat pentru tratarea hipertensiunii arteriale?;Antibiotice;Antihipertensive;Analgezice;Antiinflamatoare;2
+
+1;Single;Hard;Medicina;Care este tratamentul de primă linie pentru leucemie?;Chimio-terapie;Radioterapie;Antibiotice;Transplant de măduvă;1
+2;Single;Hard;Medicina;Ce este o boală neurodegenerativă?;O boală care afectează mușchii;O boală care afectează sistemul nervos;O boală care afectează sistemul imunitar;O boală care afectează oasele;2
+3;Single;Hard;Medicina;Ce este boala Parkinson?;O tulburare mentală;O boală a sistemului respirator;O afecțiune neurodegenerativă;O infecție virală;3
+4;Single;Hard;Medicina;Cum se numește procesul prin care se extrag organe pentru transplant?;Dializă;Transplant de țesut;Prelevare de organe;Infecție;3
+5;Single;Hard;Medicina;Cum se numește boala în care creierul se umflă din cauza unui virus?;Encefalita;Meningita;Fibroza chistică;Hemoragia cerebrală;1
+6;Single;Hard;Medicina;Care este principalul simptom al sclerozei multiple?;Durere acută;Mâncărimi;Pierdere a controlului asupra mișcărilor;Epuizare mentală;3
+7;Single;Hard;Medicina;Ce boală cauzează îngustarea arterelor coronare?;Boala Alzheimer;Ateroscleroza;Hipertensiune;Diabetul de tip 1;2
+8;Single;Hard;Medicina;Ce este un "neoplasm"?;O tumoră benignă;O infecție virală;O tumoră canceroasă;O infecție bacteriană;3
+9;Single;Hard;Medicina;Cum se numește boala care provoacă inflamația articulațiilor?;Artrita reumatoidă;Guta;Artroza;Spondilita anchilozantă;1
+10;Single;Hard;Medicina;Cum se numește afecțiunea care provoacă scăderea funcției renale progresive?;Diabetul de tip 1;Insuficiența renală cronică;Ciroza;Tuberculoza renală;2
+11;Single;Hard;Medicina;Care este tratamentul de primă linie pentru tuberculoză?;Antibiotice;Chirurgie;Vaccinuri;Terapie hormonală;1
+12;Single;Hard;Medicina;Ce se înțelege prin "sepsis"?;O infecție localizată;O reacție exagerată a organismului la infecție;O boală genetică;Un tratament pentru infecții;2
+13;Single;Hard;Medicina;Ce este o embolie?;Blocarea unui vas de sânge de un cheag;Un tip de infecție virală;O boală a pielii;Un tip de accident vascular cerebral;1
+14;Single;Hard;Medicina;Ce este boala Crohn?;O boală a ficatului;O boală autoimună care afectează intestinul;O infecție bacteriană a rinichilor;O boală metabolică;2
+15;Single;Hard;Medicina;Cum se numește boala caracterizată prin pierderea progresivă a vederii?;Glaucom;Retinopatie diabetică;Degenerare maculară;Cataracta;3
+16;Single;Hard;Medicina;Ce este o hemoragie internă?;O sângerare în afecțiuni externe;Sângerare într-un organ sau cavitate internă;Sângerare din gură;Sângerare la nivelul capului;2
+17;Single;Hard;Medicina;Care este scopul unui transplant de măduvă osoasă?;Înlocuirea țesuturilor moarte;Înlocuirea unei oase fracturate;Restabilirea funcției hematopoietice;Tratamentul unei infecții virale;3
+18;Single;Hard;Medicina;Ce înseamnă termenul "imunoterapia"?;Tratament pentru alergii;Tratament care întărește sistemul imunitar;Tratament pentru infecții bacteriene;Tratament pentru diabet;2
+19;Single;Hard;Medicina;Cum se numește boala în care organismul nu recunoaște propriile celule și le atacă?;Scleroza multiplă;Diabetul de tip 1;Boala autoimună;Acnee severă;3
+20;Single;Hard;Medicina;Care este principala metodă de tratament pentru HIV/SIDA?;Antibiotice;Antivirale;Chirurgie;Imunizare;2
+
+
+
+
