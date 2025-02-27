@@ -95,7 +95,7 @@ The platform saves the answers and score to a file; later, the user can see the 
 
 
 ## Contributions 
-Project created by **Cristian Florin Cojocaru** (**CS.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
+Project created by **Cristian Florin Cojocaru** (**CSE.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
 
 
 
