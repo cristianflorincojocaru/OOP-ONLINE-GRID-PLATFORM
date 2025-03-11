@@ -1,10 +1,10 @@
-# OOP-Online-Grid-Platform
+# OOP - ONLINE GRID PLATFORM
 
-### Problem statement :
+### PROBLEM STATEMENT :
 > **Online Quiz Platform** - managing questions and evaluating answers (problem number 23) .
 
-## Method description and problem-solving approach
 
+## METHOD DESCRIPTION & PROBLEM-SOLVING APPROACH
 
 ### 1. Problem analysis
 Our quiz platform needs to allow the creation and management of a set of multiple-choice questions, where each question has multiple answer options. 
@@ -55,7 +55,7 @@ If we want to extend the user functionality (e.g., saving long-term scores), we 
 
 
 
-## Main ideas for the final development of the program :
+## MAIN IDEAS FOR THE FINAL DEVELOPMENT OF THE PROGRAM
 ### 1. Adding difficulty levels for questions
 Questions could be categorized into difficulty levels ***(easy, medium, hard)***, and the user can select the desired level at the start of the quiz.
 > **Benefits** : The quiz becomes more flexible, allowing the user to choose questions based on their knowledge level.
@@ -94,10 +94,10 @@ The platform saves the answers and score to a file; later, the user can see the 
 
 
 
-## Contributions 
+## CONTRIBUTIONS 
 Project created by **Cristian Florin Cojocaru** (**CSE.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
 
 
 
-## License
+## LICENSE
 This project is licensed under the [MIT License](LICENSE).
