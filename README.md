@@ -48,7 +48,7 @@ The program will follow a clear and easy-to-understand workflow :
 ### 5. Ease of extension
 One of the advantages of object-oriented programming is the ease with which we can extend the program:
 
-If we want to add different types of questions (e.g., multiple-choice questions or open-ended questions), we can create new classes that extend the base Question class.
+If we want to add different types of questions (e.g., multiple-choice questions or open-ended questions), we can create new classes that extend the base 'Question' class.
 
 If we want to extend the user functionality (e.g., saving long-term scores), we can add a simple database or files for data persistence.
 
@@ -72,7 +72,7 @@ To make the quiz more unpredictable, both the questions and answer options can b
 Scores and evaluations for each user can be saved to a file to keep a history of their performance.
 > **Benefits** : Users can have a record of their tests and scores, which is useful for tracking progress over time.
 
-### 5. Creating an interactive menu in Command Prompt
+### 5. Creating an interactive menu in 'Command Prompt'
 Instead of directly running the quiz, you can add a menu that allows the user to choose different options: start a quiz, view scores, exit the program, etc.
 > **Benefits** : Provides a more user-friendly and clear interface.
 
