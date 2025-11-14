@@ -1,4 +1,4 @@
-# OOP - ONLINE GRID PLATFORM
+# Object Oriented Programming - ONLINE GRID PLATFORM
 
 ### PROBLEM STATEMENT :
 > **Online Quiz Platform** - managing questions and evaluating answers (problem number 23) .
